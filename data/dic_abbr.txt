@@ -1,0 +1,4187 @@
+huấn luyện viên:HLV
+phóng viên:PV
+cổ động viên:CĐV
+thành phố:TP
+thành phố hồ chí minh:TPHCM
+thành phố hồ chí minh:tp.hcm
+phường:P
+quận:Q
+uỷ ban nhân dân:UBND
+an toàn giao thông:ATGT
+ủy ban nhân dân:UBND
+tiến sĩ:TS
+cách mạng công nghiệp:CMCN
+công nghệ thông tin:CNTT
+thông tin và truyền thông:TT&TT
+trung học cơ sở:THCS
+cơ quan điều tra:cơ quan điều tra 
+doanh nghiệp vừa và nhỏ:DNVVN
+ây-ai:AI
+chứng minh nhân dân:CMND
+toà án nhân dân:TAND
+hội đồng xét xử:HĐXX
+sinh năm:SN
+thừa thiên:TT
+đội tuyển:ĐT
+thông tấn xã việt nam:TTXVN
+câu lạc bộ:CLB
+hội đồng quản trị:HĐQT
+ủy ban kiểm tra trung ương:UBKTTW
+trung học phổ thông:THPT
+Giáo dục:GD
+giáo dục và đào tạo:GD&ĐT
+trách nhiệm hữu hạn:TNHH
+bảo vệ thực vật:BVTV
+ban chấp hành:BCH
+ban thường vụ:BTV
+uỷ ban kiểm tra:UBKT
+cổ phần:CP
+ét bốn trăm:S - 400
+tài nguyên và môi trường:TN&MT
+một thành viên:MTV
+biển kiểm soát:BKS
+trung học phổ thông dân tộc nội trú:THPTDTNT
+phó giám đốc:PGĐ
+giao thông vận tải:GTVT
+qui:Q
+kiểm sát nhân dân:KSND
+viện kiểm sát nhân dân:VKSND
+ban quản lý:BQL
+sân vận động:SVĐ
+nông nghiệp và phát triển nông thôn:NN&PTNT
+kế hoạch và đầu tư:KH&ĐT
+đại biểu quốc hội:ĐBQH
+thạc sĩ:ThS
+giáo sư:GS
+việt nam:VN
+văn hóa thể thao và du lịch:VHTT&DL
+lao động thương binh và xã hội:LĐ-TB&XH
+quốc lộ:QL
+hồ chí minh:HCM
+giá trị gia tăng:GTGT
+điện tử:ĐT
+điện tử thương mại:ĐTTM
+phát triển nông thôn:PTNN
+việt-com-banh:VCB
+cảnh sát điều tra:CSĐT
+viện kiểm sát:VKS
+xuất khẩu lao động:XKLĐ
+đội tuyển quốc gia:ĐTQG
+Ban huấn luyện:BHL
+người hâm mộ:NHM
+công nghệ thông tin và truyền thông:CNTT&TT
+vân vân:v .v
+quốc gia:QG
+vòng chung kết:VCK
+số thứ tự:STT
+quốc lộ một:QL1
+cảnh sát giao thông:CSGT
+khu phố:KP
+thị xã:TX
+đại học:ĐH
+truyền hình việt nam:THVN
+Đại biểu:ĐB
+uỷ ban:UB
+bộ luật hình sự:BLHS
+xê rờ:CR
+cửa khẩu:CK
+sài gòn khu vực:SGKV
+truyền thông:TT
+phòng cháy chữa cháy:PCCC
+cứu nạn cứu hộ:CNCH
+phó giáo sư tiến sĩ:PGS.TS
+khoa học công nghệ:KHCN
+điiện thoại di động:ĐTDĐ
+công an thành phố:CATP
+số điện thoại:SĐT
+an toàn thông tin:ATTT
+a pác:APAC
+lao động:LĐ
+thương binh và xã hội:TB&XH
+thương mại:TM
+dịch vụ:DV
+goan:WAN
+trung ương:T.Ư
+vô địch quốc gia:VĐQG
+Đồng bằng sông Cửu Long:ĐBSCL
+biến đổi khí hậu:BĐKH
+đồng bằng sông cửu long:BSCL
+phó giáo sư:PGS
+quản lý dự án:QLDA
+an ninh trật tự:ANTT
+phòng chống thiên tai tìm kiếm cứu nạn:PCTT TKCN
+u bê nờ dê:UBND
+phòng chống thiên tai:PCTT
+tìm kiếm cứu nạn:TKCN
+mặt trận tổ quốc:MTTQ
+phòng chống lụt bão:PCLB
+tài nguyên môi trường:TNMT
+Toà án Nhân dân tối cao:TANDTC
+huy chương vàng:HCV
+hội đồng nhân dân:HĐND
+sản suất:sx
+đại biểu:ĐB
+quy chuẩn việt nam:QCVN
+câu:CO&nbsp;
+hội đồng thành viên:HĐTV
+phó giáo sư tiến sỹ:PGS.TS
+ban tổ chức:BTC
+cảnh sát hình sự:CSHS
+phổ thông dân tộc:PTDT
+với:vs
+đội tuyển:ĐT
+đương kim vô địch:ĐKVĐ
+thị trấn:TT.
+phát thanh  truyền hình:PTTH
+thông tin điện tử:TTĐT
+tổng thống:TT
+công ty:Cty
+khí tượng thủy văn:KTTV
+hoàng anh gia lai:HAGL
+bảo hiểm xã hội:BHXH
+việt-theo:Viettel
+hợp tác quốc tế:HTQT
+tố tụng hình sự:TTHS
+quận:Q
+đội tuyển quốc gia:ĐTQG
+huyện:H
+quản lý thị trường:QLTT
+phát thanh truyền hình và thông tin điện tử:PTTH-TTĐT
+biển kiểm soát:BKS
+công nghệ thông tin truyền thông:CNTTTT
+Thương mại điện tử:TMĐT
+qúy:Q
+tổng công ty:TCT
+pháp luật on-lai:PLO
+cách mạng công nghiệp:CMCN
+cảnh sát cơ động:CSCĐ
+biển kiểm soát hai chín bê một:BKS 29B1
+công ty cổ phần:CTCP
+bác sĩ:BS.
+thanh tra giao thông:TTGT
+ngân sách nhà nước:NSNN
+kinh tế xã hội:KTXH
+bảo hiểm y tế:BHYT
+địa chỉ:ĐC
+dịch tả heo châu phi:DTHCP
+sài gòn giải phóng:SGGP
+tai nạn giao thông:TNGT
+đồng chí:đ/c
+đường thủy nội địa:ĐTNĐ
+thành phố:TP
+đội tuyển việt nam:ĐTVN
+trách nhiệm hữu hạn một thành viên:TNHH MTV
+nhà xuất bản:NXB
+an ninh điều tra:ANĐT
+ban giám đốc:BGĐ
+giáo sư tiến sĩ:GS.TS
+ti-mác:TMAC
+thu nhập cá nhân:TNCN
+bến xe:BX
+chấm com:.com
+Cộng Hoà Liên Bang:CHLB
+uỷ ban chứng khoán nhà nước:UBCKNN
+huyết áp:HA
+ti vi:TV
+công-ty:Cty
+chuyên khoa:CK&nbsp;
+đường bộ việt nam:ĐBVN
+tổng giám đốc:TGĐ
+báo cáo tài chính:BCTC
+số báo danh:SBD
+phó chủ tịch ủy ban nhân dân:PCTUBND
+Phó chủ tịch:PCT
+vê téc:VTEC
+tiêu chuẩn việt nam:TCVN
+nghệ sĩ nhân dân:NSND
+khoa học và công nghệ:KH&CN
+một thành viên:MTV
+thường vụ trung ương:TVTU
+đào tạo:ĐT
+giám đốc:GĐ
+huy chương đồng:HCĐ
+phòng chống tội phạm:PCTP
+biển số:BS
+bảng xếp hạng:BXH
+nông nghiệp:NN
+thông tin:TT
+văn hoá thể thao:VHTT
+du lịch:DL
+tổ dân phố:TDP
+giáo dục đào tạo:GD-ĐT
+thông tấn việt nam:TTVN
+đái tháo đường:ĐTĐ
+bệnh nhân:BN
+bệnh viện:BV
+liên đoàn lao động:LĐLĐ
+liên đoàn lao động:LĐLĐ
+lao động thương binh:LĐTB
+xã hội:XH
+học sinh sinh viên:HSSV
+hợp tác xã:HTX
+nghệ sĩ ưu tú:NSƯT
+xổ số miền bắc:XSMB
+xổ số miền nam:XSMN
+guôn cúp:WC
+phòng giao dịch:PGD
+bộ đội biên phòng:BĐBP
+phòng chống ma túy:PCMT
+giải phóng mặt bằng:GPMB
+giờ:h
+điều tra tội phạm:ĐTTP
+gi ai em:GEM
+chứng nhận quyền sử dụng đất:CNQSD
+kế hoạch đầu tư:KHĐT
+khu dân cư:KDC
+quốc lộ:QL
+tội phạm:TP
+thương mại cổ phần:TMCP
+biển số:BS
+điện thoại di động:ĐTDĐ
+đời sống và pháp luật:ĐS&PL
+luật sư:LS
+cao đẳng:CĐ
+liên minh huyền thoại:LMHT
+mã số thuế:MST
+khu đô thị:KĐT
+sông lam nghệ an:SLNA
+cộng hòa dân chủ nhân dân:CHDCND
+bình luận viên:BLV
+chứng nhận quyền sử dụng:CNQSD
+phổ thông trung học:PTTH
+chi nhánh:CN
+thương mại dịch vụ:TMDV
+thương mại và xây dựng:TM&XD
+học sinh:HS
+hoàng-anh-gia-lai:HAGL
+quay số mở thưởng:QSMT
+trung tâm thương mại:TTTM
+ngân hàng trung ương:NHTW
+Trung học phổ thông:THPT
+cộng tác viên:CTV
+phòng cháy chữa cháy và cứu hộ cứu nạn:PCCC&CNCH
+thế giới di động:TGDĐ
+thanh niên cộng sản:TNCS
+Phổ thông trung học:PTTH
+sách giáo khoa:SGK
+đại hội đồng cổ đông:ĐHĐCĐ
+ngân hàng nhà nước:NHNN
+bảo vệ môi trường:BVMT
+dịch vụ thương mại:DVTM
+quận :Q
+Đại học:ĐH
+ứng cử viên:ƯCV
+thương mại điện tử:TMĐT
+doanh nghiệp:DN
+hệ điều hành:HĐH
+Hội đồng xét xử:HĐXX
+bách hóa xanh:BHX
+tiểu học:TH
+bộ chỉ huy:BCH
+mạng xã hội:MXH
+Giáo dục và đào tạo:GD&ĐT
+khoa học tự nhiên:KHTN
+khoa học xã hội:KHXH
+Cao đẳng:CĐ
+Giáo dục đào tạo:GD-ĐT
+kho bạc nhà nước:KBNN
+bác sĩ chuyên khoa một:BSCKI
+xây lắp:XL
+bà rịa vũng tàu:BRVT
+giáo dục:GD
+quyền sử dụng đất:QSDĐ
+thế chiến thứ hai:Thế chiến II
+nghệ sĩ:NS
+sốt xuất huyết:SXH
+thanh tra chính phủ:TTCP
+thị trường chuyển nhượng:TTCN
+phòng chống ma túy và tội phạm:PCMT&TP
+vườn quốc gia:VQG
+Liên đoàn bóng đá:LĐBĐ
+chuyên khoa hai:CKII
+văn phòng:VP
+hội đông quản trị:HĐQT
+liên đoàn bóng đá việt nam:LĐBĐVN
+chuyên khoa một:CKI
+Ban tổ chức:BTC
+hộ khẩu thường trú:HKTT
+trạm biến áp:TBA
+nhà thiết kế:NTK
+Bác sĩ:BS
+quân đội:QĐ
+Giao thông vận tải:GTVT
+xây dựng:XD
+sau công nguyên:SCN
+tiến sĩ khoa học:TSKH
+quy chuẩn thủ đô hà nội:QCTĐHN
+lợi nhuận trước thuế:LNTT
+Đại học Quốc Gia Hà Nội:ĐHQGHN
+báo cáo nghiên cứu khả thi:BCNCKT
+thiết kế bản vẽ thi công:TKBVTC
+cổ phiếu:cp
+liên đoàn lao động việt nam:LĐLĐVN
+Uỷ ban nhân dân:UBND
+khám chữa bệnh:KCB
+quận bốn:Q.4
+thủy ngân:Hg 
+môi trường:MT
+văn phòng luật sư:VPLS
+viện Kiểm sát Nhân dân:VKSND
+liên hoan phim:LHP
+phổ thông cơ sở:PTCS
+mầm non:MN
+mặt trận tổ quốc việt nam:MTTQVN
+Cổ động viên:CĐV
+áp thấp nhiệt đới:ATNĐ
+phái mạnh:PM
+truyền hình vĩnh long:THVL
+báo động ba:BĐIII
+báo động một:BĐI
+huyện đắc-rông:H.Đakrông
+ban lãnh đạo:BLĐ
+trật tự xã hội:TTXH
+văn hóa xã hội:VH-XH
+cảnh sát:CS
+đương kim vô địch:ĐKVĐ
+giám đốc kĩ thuật:GĐKT
+chuyển nhượng:CN
+tây ban nha:TBN
+cộng hoà dân chủ nhân dân:CHDCND
+hội đồng bảo an:HĐBA
+liên hợp quốc:LHQ
+ban chỉ đạo:BCĐ
+về việc:v/v
+chống bán phá giá:CBPG
+báo động:BĐ
+giấy phép lái xe:GPLX
+thanh tra kiểm soát:TTKS
+kiểm soát nhân dân:KSND
+vận tải hành khách công cộng:VTHKCC
+vận chuyển giao thông:VCGT
+phong cách:PC
+nhịp sống:NS
+kê khai bảo hiểm xã hội:KKBHXH
+đường sắt việt nam:ĐSVN
+phát sóng lưu động:PSLĐ
+vô địch thế giới:VĐTG
+vận động viên:VĐV
+cộng hòa:CH
+văn phòng Chính phủ:VPCP
+cứu hộ cứu nạn:CHCN
+phòng chống thiên tai và tìm kiếm cứu nạn:PCTT&TKCN
+giáo sư tiến sĩ:GS.TS
+sinh nhật:SN
+anh chị em:ACE
+văn hóa:VH
+thể thao và du lịch:TT&DL
+Lao động thương binh và xã hội:LĐTB&XH
+Nông nghiệp và phát triển nông thôn:NN&PTNT
+khu vực:KV
+Phòng chống thiên tai và tìm kiếm cứu nạn:PCTT&TKCN
+giám đốc:GĐ
+hội luật gia:HLG
+Ban quản lý:BQL
+ru-tơ:RT
+huy chương bạc:HCB
+thông tin an toàn giao thông:TTATGT
+tiêu chuẩn Việt Nam:TCVN
+mạng xã hội:MXH
+công an:CA
+Tổng công ty:TCT
+Thành phố:TP
+an toàn thực phẩm:ATTP
+biên tập viên:BTV
+đại hội đại biểu:ĐHĐB
+bảo hiểm thất nghiệp:BHTN
+sở hữu trí tuệ:SHTT
+nghị định:NQ
+chính phủ:CP
+quyết định:QĐ
+thủ tục hành chính:TTHC
+tổng cục thuế:TCT
+Trung học cơ sở:THCS
+trung tâm giáo dục thường xuyên:TTGDTX
+liên hiệp thanh niên:LHTN
+ngày sản xuất:NSX
+ngày đêm:ngđ
+xã hội chủ nghĩa:XHCN
+công an nhân dân:CAND
+công an quận:CAQ
+Thông tin và truyền thông:TT&TT
+phát thanh truyền hình:PT - TH
+nghị quyết:NQ
+kĩ sư:KS
+đơn vị chấp nhận thẻ:ĐVCNT
+cảng hàng không:CHK
+sản xuất thương mại dịch vụ:SXTMDV
+bảo hiểm tai nạn:BHTN
+kiểm sát nhân dan:KSND
+Cơ sở dữ liệu:CSDL
+dự án:DA
+hoa hậu:HH
+công an phường:CAP
+thanh tra kiểm soát giao thông:TTKSGT
+quốc lộ một a:QL1A
+gióa dục và đào đạo:GD&ĐT
+quyết định xử phạt vi phạm hành chính:QĐXPVPHC
+cán bộ:CBNVLĐ
+cán bộ công nhân viên:CBCNV
+phỏng vấn:PV
+thi hành án dân sự:THADS
+Hợp Tác Xã:HTX
+giáo dục và đào đạo:GD&ĐT
+năng lực tư duy:NLTD
+hợp đồng lao động:HĐLĐ
+Liên hợp quốc:LHQ
+người đưa tin:NĐT
+ủy ban cách mạng:UBCM
+điều tra thành phố:ĐTTP
+việt nam chất lượng cao:VNCLC
+nhà riêng:NR
+điện lực thành phố hồ chí minh:EVNHCM
+thương binh:TB
+trung tâm công nghiệp:TTCN
+phó giáo sư tiến  sĩ:PGS.TS
+công nghiệp :CN
+bê mờ:BMW
+nông thôn mới:NTM
+điện lực hồ chí minh:EVNHCM
+bóng đá quốc gia:BĐQG
+gâu:GO
+bê ca mếch Bình Dương:B.Bình Dương
+măng-lai:Măngline
+a-xê-an:ASEAN
+đô la niu zi-lân:NZD
+uỷ ban thường vụ quốc hội:UBTVQH
+Đại biểu Quốc hội:ĐBQH
+Ngân hàng trung ương:NHTW
+uỷ ban Thường Vụ Quốc Hội:UBTVQH
+Thành phố Hồ Chí Minh:TP.HCM
+Ngân hàng chính sách xã hội:NHCSXH
+Hoàng Mai:H.M
+Biển kiểm soát:BKS
+ngoại hạng anh:NHA
+Phát thanh truyền hình và Thông tin điện tử:PTTH&TTĐT 
+chấm vi en:.vn
+phổ thông liên cấp:PTLC
+Phổ thông dân tộc bán trú:PTDTBT
+học sinh giỏi:HSG
+Công ty:Cty
+đại học:ĐH
+mờ tê vê:MTV
+Công ty Truyền thông ABC:ABC
+Ngân hàng Phát triển châu Á:ADB
+AND:ADN
+an ninh điều tra:ANĐT
+An toàn Giao thông:ATGT
+Máy rút tiền tự động:ATM
+áp thấp nhiệt đới:ATNĐ
+An toàn Trật tự:ATTT
+An toàn Trật tự Giao thông:ATTTGT
+an toàn vệ sinh thực phẩm:ATVSTP
+Bộ Bưu chính Viễn thông:BBCVT
+Ban biên tập:BBT
+Bán công Bưu chính:BC
+Ban chỉ đạo:BCĐ
+Ban chỉ đạo đổi mới đại học:BCĐĐMĐH
+Ban chỉ đạo phòng chống tham nhũng trung ương:BCĐPCTNTƯ
+Ban chỉ đạo Quốc gia:BCĐQG
+Bưu chính điện tử:BCĐT
+Ban chỉ đạo tuyển sinh:BCĐTS
+Ban chỉ huy chiến dịch:BCHCD
+Bộ chỉ huy quân sự:BCHQS
+Ban chỉ huy trung ương:BCHTW
+Bưu chính Viễn thông:BCVT
+Bình Dương:BD
+Bóng đá:BĐ
+Bồ Đào Nha:BĐN
+bất động sản:BĐS
+Bóng đá Việt Nam:BĐVN
+Bộ Giáo dục:BGD
+Bộ Giáo dục và Đào tạo:BGDĐT
+Ban giám hiệu:BGH
+Ban giám khảo:BGK
+Bảo hiểm:BH
+bán hàng đa cấp:BHĐC
+Ban huấn luyện:BHV
+Bảo hiểm xã hội:BHXH
+Bảo hiểm y tế:BHYT
+Ngân hàng Đầu tư và Phát triển Việt Nam:BIDV
+Bách khoa:BK
+Ban Kiểm soát biển kiểm soát:BKS
+Bộ luật Hình sự:BLHS
+Biên phòng:BP
+Ban quản lý:BQL
+Ban Quản lý dự án:BQLDA
+Công ty Chứng khoán Ngân hàng Đầu tư & Phát triển Việt Nam:BSC
+bảo trì bộ trưởng:BT
+Hiệp định Thương mại Việt - Mỹ:BTA
+bảo trợ bệnh nhân nghèo:BTBNN
+Ban tổ chức:BTC
+Ban tuyển sinh:BTS
+Biên tập viên:BTV
+Bổ túc Văn hóa:BTVH
+Bện viện:BV
+Bệnh viện Đa khoa:BVĐK
+Bảo vệ thực vật:BVTV
+Bến xe:BX
+Bộ xử lý:BXL
+Công an Hà Nội:CAHN
+Công an Nhân dân:CAND
+Công an Thành phố:CATP
+Cơ bản Cán bộ Chế biến:CB
+cán bộ công chức:CBCC
+Cán bộ công nhân viên:CBCNV
+cán bộ quản lý giáo dục:CBQLGD
+Cựu chiến binh:CCB
+cải cách hành chính:CCHC
+Cao đẳng:CĐ
+chất độc da cam:CĐDC
+Cao đẳng Sư phạm:CĐSP
+Cổ động viên:CĐV
+Nhóm các nhà tài trợ cho Việt Nam:CG
+Cộng hòa Dân chủ:CHDC
+Cộng hòa Dân chủ Nhân dân:CHDCND
+Cộng hòa Liên bang:CHLB
+Cộng hòa Nhân dân:CHND
+Chứng khoán:CK
+Câu lạc bộ:CLB
+Chứng minh nhân dân:CMND
+Chi nhánh Cấp nước:CNCN
+Công nghiệp hóa:CNH
+công nhân kỹ thuật:CNKT
+chứng nhận quyền sử dụng đất:CNQSDĐ
+Công nghệ sinh học:CNSH
+cử nhân tài năng:CNTN
+Công nghệ thông tin:CNTT
+Công nhân viên:CNV
+Công nhân viên chức:CNVC
+bệnh phổi tắc nghẽn mãn tính:COPD
+Cổ phần cổ phiếu:CP
+Hợp đồng lao động đầu tiên:CPE
+Cổ phần hóa:CPH
+Đảng Nhân dân Campuchia:CPP
+cổ phần Xây dựng sản xuất thương mại:CPSXTM
+cổ phiếu tự do:CPTD
+chậm phát triển trí tuệ:CPTTT
+cấp phép xây dựng:CPXD
+Cơ quan điều tra:CQĐT
+cảnh sát cơ động:CSCĐ
+cảnh sát dã chiến:CSDC
+Cơ sở Dữ liệu:CSDL
+cảnh sát đặc nhiệm:CSĐN
+Cảnh sát điều tra cơ sở đào tạo:CSĐT
+cơ sở đào tạo lái xe:CSĐTLX
+Cảnh sát Điều tra tội phạm:CSĐTTP
+Cảnh sát điều tra tội phạm ma túy:CSĐTTPMT
+Cảng Sài Gòn:CSG
+Cảnh sát giao thông:CSGT
+Cảnh sát Hình sự:CSHS
+Chăm sóc khách hàng:CSKH
+Cảnh sát kinh tế:CSKT
+Cảnh sát khu vực:CSKV
+Cục cảnh sát phòng chống tội phạm ma túy:CSPCTPMT
+công suất phản kháng:CSPK
+Cảnh sát Quản lý hành chính:CSQLHC
+Đảng Xã hội Dân chủ cánh tả:CSSD
+cơ sở sản xuất:CSSX
+Cơ sở vật chất:CSVC
+Cao su Việt - Lào:CSVL
+Cộng sản Việt Nam:CSVN
+chính sách xã hội:CSXH
+Chính trị Công ty:CT
+Công trình Công cộng:CTCC
+chấn thương chỉnh hình:CTCH
+công ty chứng khoán:CTCK
+Chương trình chống lao quốc gia:CTCLQG
+Công ty Cấp nước:CTCN
+Công ty Cổ phần:CTCP
+Chữ thập đỏ:CTĐ
+Công ty Điện lực:CTĐL
+chuyển tiền nhanh:CTN
+Chấn thương sọ não:CTSN
+cho thuê tài chính:CTTC
+chương trình truyền hình:CTTH
+Công ty Trách nhiệm Hữu hạn:CTTNHH
+chương trình tiên tiến:CTTT
+cộng tác viên:CTV
+Công tác xã hội:CTXH
+Chuyên viên:CV
+Công viên phần mềm:CVPM
+Cư xá:CX
+dự án giao thông đô thị:DAGTĐT
+Đông Á - Thép Pomina:ĐATP
+Đại biểu Đồng bằng:ĐB
+đồng bào dân tộc:ĐBDT
+Điện Biên Phủ:ĐBP
+Đại biểu quốc hội:ĐBQH
+Đồng bằng sông Cửu Long:ĐBSCL
+Đại biểu thanh niên:ĐBTN
+đánh bắt thủy sản xa bờ:ĐBTSXB
+địa chỉ điều chế:ĐC
+Dân chủ Cộng hòa:DCCH
+Đảng cộng sản:ĐCS
+Đảng cộng sản Trung Quốc:ĐCSTQ
+Đảng cộng sản Việt Nam:ĐCSVN
+Dân dụng Dinh dưỡng:DD
+Đại diện:ĐD
+Động đất đất đai:ĐĐ
+Duyên Dáng Việt Nam:DDVN
+Đại học:ĐH
+Đại học Bán công:ĐHBC
+Đại học Bách khoa:ĐHBK
+Đại học Bách khoa Thành phố Hồ Chí Minh:ĐHBKTPHCM
+Đại học Bách khoa Hà Nội:ĐHBKHN
+đại hội cổ đông Đại học Công đoàn:ĐHCĐ
+đại học chất lượng cao:ĐHCLC
+đại học Công nghệ:ĐHCN
+Đại học Cần Thơ:ĐHCT
+Đại học đẳng cấp quốc tế:ĐHĐCQT
+Đại học Đông Dương:ĐHĐD
+Đại học Dân lập:ĐHDL
+Đại học Đà nẵng:ĐHĐN
+Đại học Giao thông Vận tải:ĐHGTVT
+Đại học Hồng Bàng:ĐHHB
+Đại học Hàng hải Việt Nam:ĐHHVN
+Đại học Khoa học:ĐHKH
+Đại học Khoa học tự nhiên:ĐHKHTN
+Đại học Khoa học tự nhiên Hà nội:ĐHKHTNHN
+Đại học Khoa học Xã hội:ĐHKHXH
+Đại học Kỹ thuật:ĐHKT
+Đại học Kỹ thuật Công nghệ:ĐHKTCN
+Đại học Kinh tế Quốc dân:ĐHKTQD
+Điện hạt nhân đồng hồ nước:ĐHN
+Đại học Nha Trang:ĐHNT
+Đại học Quốc gia:ĐHQG
+Đại học Quốc gia Hà nội:ĐHQGHN
+du học sinh:DHS
+Đại học Sư phạm:ĐHSP
+Đăng ký:ĐK
+đăng ký dự thi:ĐKDT
+điện kế điện tử:ĐLTP
+Đăng ký hộ khẩu:ĐKHK
+Đăng ký kinh doanh:ĐKKD
+đăng ký kết hôn:ĐKKH
+Đương kim vô địch:ĐKVĐ
+Điền kinh Việt Nam:ĐKVN
+đăng ký xét tuyển:ĐKXT
+Du lịch:DL
+đo lường:ĐL
+Đá Mỹ Nghệ:ĐMN
+Doanh nghiệp:DN
+Đồng nai Đà nẵng:ĐN
+Đông nam á:ĐNA
+Đông Nam Á:ĐNÁ
+Doanh nghiệp nhà nước:DNNN
+Doanh nghiệp trẻ:DNT
+Doanh nghiệp Tư nhân:DNTN
+doanh nghiệp Việt Nam:DNVN
+doanh nghiệp vừa và nhỏ:DNVVN
+điểm rèn luyện:ĐRL
+dân số:DS
+đường sắt:ĐS
+đại sứ quán:ĐSQ
+dự tuyển:DT
+Đào tạo:ĐT
+đồng tính ái:ĐTA
+điểm trung bình:ĐTB
+đái tháo đường:ĐTĐ
+Điện thoại di động:ĐTDĐ
+dạy thêm học thêm:DTHT
+Đài truyền hình Việt Nam:VTV
+Đồng tính luyến ái:ĐTLA
+đào tạo liên thông:ĐTLT
+đầu tư nước ngoài:ĐTNN
+Đội tuyển quốc gia:ĐTQG
+Đào tạo từ xa:ĐTTX
+Đào tạo từ xa Qua mạng:ĐTTXQM
+điều tra viên:ĐTV
+động thực vật hoang dã:ĐTVHD
+Đội tuyển Việt Nam:ĐTVN
+đầu tư xây dựng cơ bả:ĐTXDCB
+Dịch vụ Diễn viên:DV
+Đoàn viên:ĐV
+Đơn vị học trình:ĐVHT
+dịch vụ thương mại Cà Mau:DVTMCM
+đoàn viên thanh niên:ĐVTN
+Dịch vụ trực tuyến dịch vụ thông tin:DVTT
+Đoàn viên thanh thiếu nhi:ĐVTTN
+đoàn viên ưu tú:ĐVƯT
+dịch vụ việc làm:DVVL
+Liên minh châu Âu:EU
+Công ty Viễn thông điện lực:EVN
+Liên đoàn bóng đá thế giới:FIFA
+Hiệp định chung về Thuế quan và Thương mại:GATT
+giấy chứng minh nhân dân:GCMND
+Giấy chứng nhận:GCN
+Giấy chứng nhận đăng ký kinh doanh:GCNĐKKD
+giấy chứng nhận kết quả thi:GCNKQT
+giấy chứng nhận quyền sử dụng:GCNQSD
+Giấy chứng nhận quyền sử dụng đất:GCNQSDĐ
+Giấy chứng nhận quyền sử dụng đất ở:GCNQSDĐƠ
+Giấy chứng nhận quyền sở hữu:GCNQSH
+Giấy chứng nhận quyền sở hữu nhà:GCNQSHN
+Giấy chứng nhận quyền sở hữu nhà ở:GCNQSHNƠ
+giấy chứng nhận sức khỏe:GCNSK
+giấy chủ quyền:GCQ
+Giáo dục:GD
+Giám đốc:GĐ
+giáo dục dục đại học:GDĐH
+giám đốc điều hành:GĐĐH
+Giáo dục & Đào tạo:GDĐT
+giáo dục giới tính:GDGT
+giáo dục nghề nghiệp:GDNN
+Gạch Đồng Tâm:GĐT
+Gạch Đồng Tâm Long An:GĐTLA
+Giám đốc thông tin:GĐTT
+Giáo dục thường xuyên:GDTX
+Giáo hội Phật giáo Việt Nam:GHPGVN
+Giáo khoa:GK
+chứng nhận kết quả thi:GKQT
+Gia Lai:GL
+gái mại dâm:GMD
+Giấy phép:GP
+Công ty Dịch vụ Viễn thông:GPC
+giấy phép lưu hành đặc biệt:GPLHĐB
+Giấy phép lái xe:GPLX
+phép nhập khẩu:GPNK
+giải phẫu thẩm mỹ:GPTM
+Giấy phép xây dựng:GPXD
+Giáo sư:GS
+Giáo sư Tiến sỹ:GSTS
+Giáo sư Tiến sỹ Khoa học:GSTSKH
+giám sát trọng tài:GSTT
+Giao thông  Giá trị:GT
+Giao thông Công chánh:GTCC
+Giá trị gia tăng:GTGT
+giãn tĩnh mạch tinh:GTMT
+Giao thông Vận tải:GTVT
+Giáo viên Giảng viên:GV
+Giáo viên chủ nhiệm:GVCN
+giáo viên giỏi:GVG
+giáo viên mầm non giáo viên miền núi:GVMN
+giáo viên tiểu học:GVTH
+giáo viên tình nguyện:GVTN
+Hoàng Anh Gia Lai:HAGL
+Học bổng:HB
+virus viêm gan B:HBV
+hành chính huy chương:HC
+Huy chương bạc:HCB
+Huy chương đồng:HCĐ
+Hồ Chí Minh:HCM
+học chế tín chỉ:HCTC
+hội chợ triển lăm:HCTL
+Huy chương vàng:HCV
+Hội chợ việc làm:HCVL
+Hướng dẫn:HD
+Hội đồng Hợp đồng:HĐ
+Hội đồng Bảo an Liên Hiệp Quốc:HĐBA
+Hội đồng chức danh:HĐCD
+Hội đồng chức danh giáo sư:HĐCDGS
+Hội đồng chức danh giáo sư cơ sở:HĐCDGSCS
+Hội đồng Chức danh giáo sư ngành:HĐCDGSN
+Hội đồng Chức danh giáo sư nhà nước:HĐCDGSNN
+hội đồng coi thi:HĐCT
+Hội đồng Đền bù:HĐĐB
+Hội đồng định giá:HĐĐG
+Hệ điều hành:HĐH
+hợp đồng kinh tế:HĐKT
+Hợp đồng lao động:HĐLĐ
+Hội đồng nhân dân thành phố:HĐNDTP
+hội đồng nghệ thuật:HĐNT
+Hội đồng Quản trị:HĐQT
+hội đồng trường  hội đồng thi:HĐT
+Hội đồng thẩm định:HĐTĐ
+Hội đồng tuyển sinh:HĐTS
+Hội đồng Trọng tài:HĐTT
+hướng dẫn viên:HDV
+Hội đồng xét xử:HĐXX
+Hoa hậu:HH
+Hoa hậu Thế giới:HHTG
+Hoa hậu Việt Nam:HHVN
+Học kỳ:HK
+Hàng không dân dụng:HKDD
+Hàng không dân dụng Việt Nam:HKDDVN
+hội khoa học kỹ thuật:HKHKT
+hội khoa học kỹ thuật Việt Nam:HKHKTVN
+hộ khẩu thường trú:HKTT
+huấn luyện:HL
+Hoa Lâm Bình Định:HLBĐ
+Huấn luyện Quốc gia:HLQG
+Trung tâm huấn luyện thể thao quốc gia:HLTTQG
+Huấn luyện viên:HLV
+hiến máu nhân đạo:HMNĐ
+Hà Nội Hội nghị:HN
+Hội nông dân:HND
+hôn nhân gia đình:HNGĐ
+hội nghị hiệp thương:HNHT
+Hội Nhà văn:HNV
+Hải phòng Học phần:HP
+Hòa Phát Hà Nội:HPHN
+Hải quan Hàn quốc:HQ
+Hải quan điện tử:HQĐT
+Hải quan Hải phòng:HQHP
+Học sinh:HS
+Học sinh bán công:HSBC
+Hồ sơ đăng ký dự thi:HSĐKDT
+Truy nhập gói đường xuống tốc độ cao:HSDPA
+học sinh giỏi:HSG
+học sinh giỏi Quốc gia:HSGQG
+học sinh giỏi Quốc tế:HSGQT
+học sinh phổ thông:HSPT
+Học sinh sinh viên:HSSV
+Hội sinh viên:HSV
+học tập cộng đồng:HTCĐ
+Hợp tác xã dịch vụ nông nghiệp:HTXDVNN
+Tổng công ty Đầu tư phát triển nhà và đô thị:HUD
+Học viên:HV
+Học viện An ninh Nhân dân:HVANND
+Học viện Bưu chính Viễn thông:HVBCVT
+Học viên Cao học:HVCH
+Học viện Công nghệ Bưu chính Viễn thông:HVCNBCVT
+Học viện Khoa học Quân sự:HVKHQS
+Honda Việt Nam:HVN
+Hàng Việt Nam chất lượng:HVNCL
+Hàng Việt Nam chất lượng cao:HVNCLC
+Học viện Ngân hàng:HVNH
+Quỹ tiền tệ quốc tế:IMF
+Kho bạc Nhà nước:KBNN
+Kênh truyền hình TW Hàn Quốc:KBS
+khám chữa bệnh:KCB
+Khu công nghiệp:KCN
+Khu chế xuất:KCX
+khu dân cư:KDC
+Kiểm định chất lượng:KĐCL
+Kiểm định chất lượng Giáo dục:KĐCLGD
+Kiểu dáng công nghiệp:KDCN
+kinh doanh dịch vụ:KDDV
+Kiểm dịch động vật:KDĐV
+kinh doanh hàng đa cấp:KDHĐC
+Khu du lịch:KDL
+Kinh doanh nhà:KDN
+Kinh doanh nhà Phú Nhuận:KDNPN
+Khu đường sông:KĐS
+Khu đô thị:KĐT
+Khu đô thị mới:KĐTM
+Đô thị Nam Thăng Long:KĐTNTL
+Kế hoạch:KH
+Khoa học Công nghệ:KHCN
+Kế hoạch Đầu tư:KHĐT
+Kế hoạch kinh doanh:KHKD
+Khoa học Kỹ thuật:KHKT
+Khoa học Kỹ thuật Hạt nhân:KHKTHN
+Khoa học kỹ thuật hình sự:KHKTHS
+Khoa học kỹ thuật Nông nghiệp:KHKTNN
+Khoa học kỹ thuật Nông nghiệp miền Nam:KHKTNNMN
+Khoa học lịch sử:KHLS
+Khoa học Tự nhiên:KHTN
+Khoa học Xãn hội:KHXH
+Khuyến khích:KK
+khu kinh tế:KKT
+Kết luận:KL
+kết luận điều tra:KLĐT
+Kỷ lục quốc gia:KLQG
+Khuyến nông:KN
+khiếu nại tố cáo:KNTC
+khu phố:KP
+Kỹ sư Khách sạn:KS
+Kiểm sát nhân dân:KSND
+Kiểm sát Nhân dân Tối cao:KSNDTC
+ký sinh trùng:KST
+kiểm sát viên:KSV
+Khu thương mại:KTM
+Kinh tế nhà nước:KTNN
+kinh tế quốc dân:KTQD
+Kinh tế Quốc dân Hà Nội:KTQDHN
+Kiến trúc sư:KTS
+khí tượng thủy văn:KTTV
+Kỹ thuật viên:KTV
+Ký túc xá:KTX
+Khu vực:KV
+Khu vực 1:KV1
+Khu vực 2:KV2
+Khu vực 3:KV3
+Liên bang:LB
+Luật Cạnh tranh Luật công ty:LCT
+Lao động:LĐ
+Liên đoàn bóng đá:LĐBĐ
+Liên đoàn bóng đá Việt Nam:VFF
+Liên đoàn Lao động:LĐLĐ
+Đảng Dân chủ Tự do:LDP
+Lao động Thương binh:LĐTB
+Lao động Thương binh Xã hội:LĐTBXH
+Liên hiệp Liên hoan:LH
+Liên hoan phim:LHP
+Liên hiệp Phụ nữ:LHPN
+Liên hiệp quốc Lên hợp quốc:LHQ
+lưu học sinh:LHS
+Liên hiệp Thanh niên:LHTN
+Hội Liên hiệp Thanh niên Việt Nam:LHTNVN
+lực lượng:LL
+Lực lượng lao động:LLLĐ
+Luật sư:LS
+Lãnh sự quán:LSQ
+lây truyền qua đường tình dục:LTQĐTD
+Ngân hàng TMCP quân đội:MB
+mũ bảo hiểm:MBH
+Mùa hè xanh:MHX
+Mã số:MS
+Môi trường Mặt trận:MT
+Máy tính điện tử:MTĐT
+Mặt trận tổ quốc:MTTQ
+Mặt trận tổ quốc Việt Nam:MTTQVN
+Máy tính xách tay:MTXT
+Nghiên cứu:NC
+nhà cung cấp:NCC
+nghiên cứu khoa học:NCKH
+ngoài công lập:NCL
+Nghiên cứu sinh:NCS
+Hội đồng Các Tổ chức Dệt may Quốc gia Mỹ:NCTO
+Nghiên cứu thị trường:NCTT
+Nhân dân:ND
+Nghị định:NĐ
+Trung tâm dữ liệu Viễn thám Quốc gia:NDC
+Nhân dân tệ:NDT
+Nhà đầu tư:NĐT
+người đẹp Việt Nam:NĐVN
+Ngân hàng:NH
+Ngân hàng Chính sách xã hội:NHCSXH
+Ngân hàng Công thương Chi nhánh:NHCTCN
+Ngân hàng Công thương Hải Phòng:NHCTHP
+Ngân hàng Công thương Việt Nam:NHCTVN
+Ngân hàng Đông Á:NHĐÁ
+Ngân hàng Đầu tư:NHĐT
+Ngân hàng Đầu tư phát triển:NHĐTPT
+Đài truyền hình quốc gia Nhật Bản:NHK
+Ngân hàng nhà nước:NHNN
+Ngân hàng Nông nghiệp và Phát triển Nông thôn:NHNNPTNT
+Ngân hàng Nhà nước Việt Nam:NHNNVN
+Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam:NHNoVN
+Ngân hàng Ngoại thương:NHNT
+Ủy ban Nhân quyền quốc gia:NHRC
+Ngân hàng Thương mại:NHTM
+ngân hàng thương mại cổ phần:NHTMCP
+ngân hàng thương mại nhà nước:NHTMNN
+ngân hàng thương mại quốc doanh:NHTMQD
+Ngân hàng Trung ương Trung Quốc:NHTQ
+Cục an toàn xa lộ quốc gia Mỹ:NHTSA
+Ngân hàng Trung ương:NHTW
+Nhập khẩu:NK
+nhiễm khuẩn bệnh viện:NKBV
+Nam Kỳ Khởi Nghĩa:NKKN
+Năng khiếu Nghiệp vụ:NKNV
+người khuyết tật:NKT
+Năng lượng:NL
+Người lao động:NLĐ
+năng lượng mặt trời:NLMT
+nông lâm sản:NLS
+năng lượng tái tạo:NLTT
+nhà máy điện:NMĐ
+Nhà nước:NN
+Nạn nhân chất độc da cam:NNCĐDC
+Nông nghiệp và Phát triển nông thôn:NNPTNT
+Nhà phân phối:NPP
+Nghị quyết:NQ
+ngoài quốc doanh:NQD
+Nghệ sỹ:NS
+Nghệ sỹ nhân dân:NSND
+ngân sách nhà nước:NSNN
+nhiễm sắc thể:NST
+Nghệ sỹ ưu tú:NSƯT
+Nghệ thuật biểu diễn:NTBD
+Nhà tuyển dụng người tiêu dùng:NTD
+nhà thiết kế:NTK
+Nhân viên Nguyện vọng:NV
+Nguyện vọng 1:NV1
+Nguyện vọng 2:NV2
+Nguyện vọng 3:NV3
+Nhà văn hóa:NVH
+Nhà Văn hóa Thanh niên:NVHTN
+Nhà xuất bản:NXB
+Nhà xuất bản Giáo dục:NXBGD
+Nhà xuất bản Khoa học Xã hội:NXBKHXH
+Nhà xuất bản Quân đội Nhân dân:NXBQĐND
+Nhà xuất bản Tự nhiên:NXBTN
+Nhà xuất bản Văn hóa Nghệ thuật:NXBVHTT
+Phòng Cảnh sát điều tra tội phạm về trật tự xã hội:PC14
+Phòng Cảnh sát điều tra tội phạm về quản lý kinh tế và chức vụ:PC15
+Phòng Cảnh sát điều tra:PC16
+Phòng cảnh sát phòng chống tội phạm ma tuý:PC17
+phòng chống bão lụt:PCBL
+phòng chống bão lụt và tìm kiếm cứu nạn:PCBLTKCN
+phổ cập bậc trung học:PCBTH
+Phòng công chứng:PCC
+Phòng cháy chửa cháy:PCCC
+phổ cập giáo dục:PCGD
+phổ cập giáo dục bậc trung học:PCGDBTH
+phổ cập giáo dục tiểu học:PCGDTH
+phổ cập giáo dục trung học cơ sở:PCGDTHCS
+phòng chống lụt bão miền Nam:PCLBMN
+phòng chống lụt bão Trung ương:PCLBTW
+Phó chủ tịch:PCT
+phổ cập tiểu học:PCTH
+phổ cập trung học cơ sở:PCTHCS
+Phòng chống tệ nạn:PCTN
+Phòng chống tệ nạn xã hội:PCTNXH
+Phòng chống tội phạm công nghệ cao:PCTPCNC
+Phó giám đốc:PGĐ
+Phật giáo Hòa Hảo:PGHH
+Phó Giáo sư:PGS
+phụ huynh học sinh:PHHS
+Pháp luật:PL
+Tổ chức Giải phóng Palestin:PLO
+phần mềm:PM
+Ban quản lý dự án:PMU
+Ban quản lý dự án 18:PMU18
+Phụ nữ:PN
+Quy chế Thương mại bình thường vĩnh viễn:PNTR
+phương pháp:PP
+Phóng sự:PS
+Phổ thông cơ sở:PTCS
+phòng thí nghiệm:PTN
+Phát triển Nông thôn:PTNT
+Công ty Dịch vụ Kỹ thuật dầu khí:PTSC
+Phó thủ tướng:PTT
+Phổ thông trung học:PTTH
+Phẫu thuật thẩm mỹ:PTTM
+Phát triển trẻ thơ:PTTT
+Phát thanh viên:PTV
+Phóng viên Phỏng vấn:PV
+Phú Yên:PY
+Quĩ bảo lãnh tín dụng:QBLTD
+Quy chế:QC
+quy chế dân chủ cơ sở:QCDCCS
+Quy chế ghi nhãn hàng hóa:QCGNHH
+quan chức hải quan:QCHQ
+Quy chế kinh doanh thép xây dựng:QCKDTXD
+quy chuẩn kĩ thuật:QCKT
+Quyết định:QĐ
+Quân đội nhân dân:QĐND
+Quốc gia:QG
+Quốc hội:QH
+Quan hệ tình dục:QHTD
+Quân khu:QK
+Quản lý:QL
+Quản lý dược:QLD
+Quản lý dự án:QLDA
+Quản lý Đào tạo:QLĐT
+Quản lý thị trường:QLTT
+Quảng Ninh:QN
+quyền sử dụng:QSD
+quyền sử dụng đất:QSDĐ
+Quản trị Kinh doanh:QTKD
+rối loạn cương:RLC
+rối loạn cương dương:RLCD
+SARS Hội chứng hô hấp cấp tính nặng:SARS
+Số báo danh:SBD
+Công ty Chứng khoán Ngân hàng Sài Gòn Thương Tín:SBS
+sử dụng:SD
+sử dụng đất:SDĐ
+sử dụng đất nông nghiệp:SDĐNN
+sau đại học:SĐH
+số đăng ký:SĐK
+Sông Đà Nam Định:SĐNĐ
+số điện thoại:SĐT
+Sơn Đồng Tâm Long An:SĐTLA
+Sài Gòn:SG
+Sở giáo dục:SGD
+Sài gòn giải phóng:SGGP
+Sách giáo khoa:SGK
+Saigontourist:SGT
+Sài Gòn Tiếp Thị:SGTT
+Sở Giao thông Vận tải:SGTVT
+Sinh hoạt:SH
+Sở hữu nhà nước:SHNN
+sinh hoạt tình dục:SHTD
+sở hữu trí tuệ:SHTT
+Công Ty Vàng Bạc Đá Quý TP Hồ Chí Minh:SJC
+Sân khấu:SK
+Sở Khoa học Công nghệ:SKHCN
+Sở Khoa học Công nghệ và Môi trường:SKHCNMT
+Sở Kế hoạch và Đầu tư:SKHĐT
+sức khỏe sinh sản:SKSS
+Sông Lam Nghệ An:SLNA
+Sao mai Điểm hẹn:SMĐH
+Sinh năm sinh ngày:SN
+sở Nông nghiệp:SNN
+Sư phạm Sản phẩm:SP
+Sư phạm kỹ thuật:SPKT
+Sĩ số:SS
+Hiệp hội Tôm miền Nam nước Mỹ:SSA
+Ngân hàng thương mại cổ phần Sài Gòn Thương Tín:STB
+Sinh viên:SV
+Sân vận động:SVĐ
+Sao Vàng Đất Việt:SVĐV
+Sinh viên học sinh:SV–HS
+Sinh viên nghiên cứu khoa học:SVNCKH
+Sinh viên tình nguyện:SVTN
+Sinh viên Việt Nam:SVVN
+Sản xuất:SX
+sốt xuất huyết:SXH
+Sơ yếu lý lịch:SYLL
+thức ăn chăn nuôi:TACN
+Tòa án nhân dân:TAND
+Tòa án Nhân dân Tối cao:TANDTC
+Thái Bình Dương:TBD
+Thời báo kinh tế Sài Gòn:TBKTSG
+Thời báo Kinh tế Việt Nam:TBKTVN
+Tai biến mạch máu não:TBMMN
+Tổng biên tập:TBT
+thuê bao trả trước:TBTT
+Thương binh Xã hội:TBXH
+Tài chính Tổng cộng:TC
+Tiêu chuẩn và bảo vệ người tiêu dùng:TCBVNTD
+trung cấp chuyên nghiệp:TCCN
+tổ chức cơ sở Tạp chí Cộng sản:TCCS
+Tổng cục Du lịch:TCDL
+tuyệt chủng hàng loạt:TCHL
+Tổng cục hải quan:TCHQ
+Tài chính - Kế hoạch Tạp chí Khoa học trái cây không hạt:TCKH
+Tài chính - Kế toán:TCKT
+thủ công mỹ nghệ:TCMN
+tiêm chủng mở rộng:TCMR
+trung cấp nghề:TCN
+Tài chính nhà nước:TCNN
+Trịnh Công Sơn:TCS
+Tổng công ty:TCT
+tổ chức tín dụng:TCTD
+trò chơi trực tuyến:TCTT
+Tổng công ty Thương mại Sài Gòn:TCTTMSG
+Tiêu chuẩn Việt Nam:TCVN
+Thảo Cầm Viên Sài Gòn:TCVSG
+tình dục:TD
+từ điển:TĐ
+Từ Điển Bách Khoa Việt Nam:TĐBKVN
+tái định cư:TĐC
+Thể dục thể thao:TDTT
+Thể dục thể thao Quốc gia:TDTTQG
+trình dược viên:TDV
+Hãng phim Truyền hình TPHCM:TFS
+thế giới:TG
+Tổng giám đốc:TGĐ
+trợ giúp pháp lý:TGPL
+Truyền hình Trung học:TH
+Trung học Chuyên ban:THCB
+Trung học chuyên nghiệp:THCN
+Trung học cơ sở:THCS
+Thực hiện chính sách nhà đất:THCSNĐ
+trung học dân lập:THDL
+tín hiệu giao thông:THGT
+truyền hình kỹ thuật số:THKTS
+truyền hình kỹ thuật số mặt đất:THKTSMĐ
+Trung học phổ thông:THPT
+thương hiệu quốc gia:THQG
+Tín hiệu số:THS
+truyền hình trực tiếp:THTT
+Truyền hình Việt Nam:THVN
+Tân hoa xã:THX
+thiết kế:TK
+tìm kiếm cứu nạn:TKCN
+Thương mại:TM
+Thương mại cổ phần:TMCP
+Thương mại Điện tử:TMĐT
+Thép Miền Nam:TMN
+Công ty ôtô Toyota Việt Nam:TMV
+Thanh niên:TN
+thu nhập cá nhân:TNCN
+Thanh niên cộng sản:TNCS
+tốt nghiệp đại học:TNĐH
+Thu nhập doanh nghiệp:TNDN
+Thoát nước Đô thị:TNĐT
+Tai nạn giao thông:TNGT
+Trinh nữ hoàng cung:TNHC
+Trách nhiệm hữu hạn:TNHH
+thuế nhập khẩu:TNK
+trắc nghiệm khách quan:TNKQ
+thanh niên lập nghiệp:TNLN
+Tài nguyên Môi trường:TNMT
+Tiếng nói Nhân dân:TNND
+thanh niên nông thôn:TNNT
+Thanh niên Online:TNO
+tu nghiệp sinh:TNS
+thanh niên sinh viên:TNSV
+thanh niên sinh viên Việt Nam:TNSVVN
+Tình Nguyện Trẻ:TNT
+thanh niên tình nguyện tài nguyên thiên nhiên:TNTN
+Thiếu niên Tiền phong:TNTP
+Tình nguyện viên:TNV
+Thanh niên Việt Nam:TNVN
+tệ nạn xã hội:TNXH
+Thanh niên xung kích:TNXK
+Thanh niên xung phong:TNXP
+trái phiếu chuyển đổi:TPCĐ
+Thực phẩm chức năng:TPCN
+Thành phố Cần Thơ:TPCT
+Thành phố Hồ Chí Minh:TPHCM
+Tiên phong Online:TPO
+Trung Quốc:TQ
+tiền sử dụng đất:TSDĐ
+Tiến sỹ Khoa học:TSKH
+Tân Sơn Nhất:TSN
+Trung tâm Thị trường:TT
+thị trường bất động sản:TTBĐS
+Trung tâm bồi dưỡng văn hóa:TTBDVH
+Trung tâm bồi dưỡng văn hóa ngoài giờ:TTBDVHNG
+Trung tâm bảo vệ quyền tác giả:TTBVQTG
+Trang thiết bị y tế:TTBYT
+Trung tâm chứng khoán Thị trường Chứng khoán:TTCK
+Tuổi trẻ Chủ nhật Trung tâm cai nghiện Tiểu thủ công nghiệp:TTCN
+Thanh tra Chính phủ  Thủ tướng Chính phủ:TTCP
+Thể Thao Cuối Tuần:TTCT
+thuế Tiêu thụ đặc biệt:TTĐB
+Trung tâm Dinh dưỡng:TTDD
+Trung tâm Điện máy:TTĐM
+Trung tâm Dịch vụ:TTDV
+Trung tâm Dịch vụ việc làm:TTDVVL
+Thủ tướng:TTg
+Trung tâm giao dich chứng khoán:TTGDCK
+Trung tâm Giáo dục thường xuyên:TTGDTX
+Trật tự Giao thông:TTGT
+Thừa Thiên Huế:TTH
+Trung tâm học tập cộng đồng:TTHTCĐ
+trung tâm hỗ trợ sinh viên:TTHTSV
+tổng thư ký:TTK
+Thông tư liên tịch:TTLT
+thanh thiếu niên:TTN
+Trung tâm Ngoại Ngữ:TTNN
+Tuổi trẻ online:TTO
+trật tự quản lý kinh tế:TTQLKT
+Trung tâm Tin học:TTTH
+trung tâm thương mại:TTTM
+thụ tinh trong ống nghiệm:TTTON
+trí thức trẻ tình nguyện:TTTTN
+trật tự viên giao thông:TTVGT
+Trung tâm Văn hóa:TTVH
+Trí tuệ Việt Nam Trái tim Việt Nam Thể thao Việt Nam:TTVN
+trật tự xã hội:TTXH
+Thông tấn xã Việt Nam:TTXVN
+Trung tâm y tế:TTYT
+Trung tâm Y tế dự phòng:TTYTDP
+Thư viện Tivi:TV
+tiếp viên hàng không:TVHK
+Than Việt Nam:TVN
+Thường vụ Quốc hội:TVQH
+tư vấn viên:TVV
+Trung ương:TW
+Thị xã:TX
+Ủy ban Chứng khoán Nhà nước:UBCKNN
+Uỷ ban Kiểm tra:UBKT
+Ủy ban Mạt trận Tổ quốc:UBMTTQ
+Ủy ban Mặt trận Tổ quốc Việt Nam:UBMTTQVN
+Ủy ban Nhân dan Thành phố:UBNDTP
+Ủy ban Thể dục Thể thao:UBTDTT
+Ủy ban thường vụ Quốc hội:UBTVQH
+ứng cử viên:ƯCV
+Chương trình Phát triển Liên Hợp Quốc:UNDP
+Tổ chức Giáo dục Khoa học và Văn hóa của Liên hiệp quốc:UNESCO
+Quỹ dân số Liên Hợp Quốc:UNFPA
+Văn phòng Cao ủy Liên hợp quốc về người tỵ nạn:UNHCR
+Quỹ Nhi đồng Liên hợp quốc:UNICEF
+Lực lượng gìn giữ hòa bình của LHQ tại miền nam Libăng:UNIFIL
+ung thư:UT
+Ủy viên:UV
+Ủy viên ban chấp hành:UVBCH
+Ủy viên Bộ chính trị:UVBCT
+Ngân hàng ngoại thương Việt Nam:VCB
+Vòng chung kết:VCK
+ví dụ:VD
+Vô địch:VĐ
+Công ty Điện toán và Truyền số liệu:VDC
+Vô địch Quốc gia:VĐQG
+Vận động viên:VĐV
+Vận động viên Quốc gia:VĐVQG
+Văn hóa:VH
+Văn hóa Giáo dục Thanh niên Thiếu niên:VHGDTNTN
+Văn hóa Giáo dục Thanh thiếu niên và Nhi đồng:VHGDTTNNĐ
+Văn học Nghệ thuật:VHNT
+Văn hóa Thông tin:VHTT
+Viện Kiểm sát:VKS
+Viện Kiểm sát Nhân dân:VKSND
+Viện Kiểm sát Nhân dân Tối cao:VKSNDTC
+Vật lý:VL
+Võ Lâm Truyền Kỳ:VLTK
+Vật liệu xây dựng:VLXD
+Việt Nam:VN
+Tổng Công ty Xi măng Việt Nam:VNCC
+Vinamilk:VNM
+Văn phòng:VP
+Văn phòng chính phủ:VPCP
+Văn phòng đại diện:VPĐD
+Vườn Quốc gia:VQG
+Vệ sinh:VS
+Xí nghiệp Liên doanh Vietsovpetro:VSP
+Viên thông Vi tính Vũ trụ:VT
+Hội Thanh niên Sinh viên Việt Nam tại Nhật Bản:VYSA
+Ngân hàng thế giới:WB
+Tổ chức Thương mại thế giới:WTO
+Xây dựng:XD
+xây dựng cơ bản:XDCB
+Xoá đói giảm nghèo:XĐGN
+Xăng dầu hàng không:XDHK
+Xã hội:XH
+Xã hội chủ nghĩa:XHCN
+xã hội hóa:XHH
+Xuất khẩu:XK
+xuất khẩu lao động:XKLĐ
+Xí nghiệp:XN
+Xuất nhập khẩu:XNK
+xổ số kiến thiết:XSKT
+Xúc tiến thương mại:XTTM
+Xét xử:XX
+Y khoa Việt Nam:YKVN
+Y tế Dự phòng:YTDP
+Y tế:YTế
+an toàn thông tin:attt
+an toàn thông tin:attt
+an toàn thông tin:attt
+an toàn thông tin:attt
+an toàn thông tin:attt
+an toàn trật tự:attt
+an toàn trật tự:attt
+an toàn trật tự:attt
+an toàn trật tự:attt
+an toàn trật tự:attt
+bán công:bc
+bán công:bc
+bán công:bc
+bán công:bc
+bán công:bc
+báo cáo:bc
+báo cáo:bc
+báo cáo:bc
+báo cáo:bc
+báo cáo:bc
+bưu chính:bc
+bưu chính:bc
+bưu chính:bc
+bưu chính:bc
+bưu chính:bc
+ban chấp hành:bch
+ban chấp hành:bch
+ban chấp hành:bch
+ban chấp hành:bch
+ban chấp hành:bch
+bộ chỉ huy:bch
+bộ chỉ huy:bch
+bộ chỉ huy:bch
+bộ chỉ huy:bch
+bộ chỉ huy:bch
+báo động:bđ
+báo động:bđ
+báo động:bđ
+báo động:bđ
+báo động:bđ
+báo động:bđ
+báo động:bđ
+báo động:bđ
+bắt đầu:bđ
+bắt đầu:bđ
+bắt đầu:bđ
+bắt đầu:bđ
+bắt đầu:bđ
+biến động:bđ
+biến động:bđ
+biến động:bđ
+biến động:bđ
+biến động:bđ
+bóng đá:bđ
+bóng đá:bđ
+bóng đá:bđ
+bóng đá:bđ
+bóng đá:bđ
+bóng đá:bđ
+bóng đá:bđ
+bóng đá:bđ
+bảo hành:bh
+bảo hành:bh
+bảo hành:bh
+bảo hành:bh
+bảo hành:bh
+bảo hiểm:bh
+bảo hiểm:bh
+bảo hiểm:bh
+bảo hiểm:bh
+bảo hiểm:bh
+bây giờ:bh
+bây giờ:bh
+bây giờ:bh
+bây giờ:bh
+bây giờ:bh
+bao giờ:bg
+bao giờ:bg
+bao giờ:bg
+bao giờ:bg
+bao giờ:bg
+bây giờ:bg
+bây giờ:bg
+bây giờ:bg
+bây giờ:bg
+bây giờ:bg
+bảo hiểm tai nạn:bhtn
+bảo hiểm tai nạn:bhtn
+bảo hiểm tai nạn:bhtn
+bảo hiểm tai nạn:bhtn
+bảo hiểm tai nạn:bhtn
+bảo hiểm tai nạn:bhtn
+bảo hiểm tai nạn:bhtn
+bảo hiểm tai nạn:bhtn
+bảo hiểm thất nghiệp:bhtn
+bảo hiểm thất nghiệp:bhtn
+bảo hiểm thất nghiệp:bhtn
+bảo hiểm thất nghiệp:bhtn
+bảo hiểm thất nghiệp:bhtn
+bảo hiểm thất nghiệp:bhtn
+bảo hiểm thất nghiệp:bhtn
+bảo hiểm thất nghiệp:bhtn
+ban kiểm soát:bks
+ban kiểm soát:bks
+ban kiểm soát:bks
+ban kiểm soát:bks
+ban kiểm soát:bks
+ban kiểm soát:bks
+ban kiểm soát:bks
+ban kiểm soát:bks
+biển kiểm soát:bks
+biển kiểm soát:bks
+biển kiểm soát:bks
+biển kiểm soát:bks
+biển kiểm soát:bks
+biển kiểm soát:bks
+biển kiểm soát:bks
+biển kiểm soát:bks
+bạn:bn
+bạn:bn
+bạn:bn
+bạn:bn
+bạn:bn
+bao nhiêu:bn
+bao nhiêu:bn
+bao nhiêu:bn
+bệnh nhân:bn
+bệnh nhân:bn
+bệnh nhân:bn
+bệnh nhân:bn
+bệnh nhân:bn
+bộ phận:bp
+bộ phận:bp
+bộ phận:bp
+bộ phận:bp
+bộ phận:bp
+biên phòng:bp
+biên phòng:bp
+biên phòng:bp
+biên phòng:bp
+biên phòng:bp
+bác sĩ:bs
+bác sĩ:bs
+bác sĩ:bs
+bác sĩ:bs
+bác sĩ:bs
+bác sĩ:bs
+bác sĩ:bs
+bác sĩ:bs
+biển số:bs
+biển số:bs
+biển số:bs
+biển số:bs
+biển số:bs
+biển số:bs
+biển số:bs
+bài tập:bt
+bài tập:bt
+bài tập:bt
+bài tập:bt
+bài tập:bt
+bài tập:bt
+bài tập:bt
+bài tập:bt
+bảo trì:bt
+bảo trì:bt
+bảo trì:bt
+bảo trì:bt
+bảo trì:bt
+bảo trì:bt
+bảo trì:bt
+bảo trì:bt
+bộ trưởng:bt
+bộ trưởng:bt
+bộ trưởng:bt
+bộ trưởng:bt
+bộ trưởng:bt
+bộ trưởng:bt
+bộ trưởng:bt
+bộ trưởng:bt
+ban thường vụ:btv
+ban thường vụ:btv
+ban thường vụ:btv
+ban thường vụ:btv
+ban thường vụ:btv
+ban thường vụ:btv
+ban thường vụ:btv
+ban thường vụ:btv
+biên tập viên:btv
+biên tập viên:btv
+biên tập viên:btv
+biên tập viên:btv
+biên tập viên:btv
+bảo vệ:bv
+bảo vệ:bv
+bảo vệ:bv
+bảo vệ:bv
+bảo vệ:bv
+bảo vệ:bv
+bảo vệ:bv
+bảo vệ:bv
+bảo vệ:bv
+bảo vệ:bv
+bảo vệ:bv
+bệnh viện:bv
+bệnh viện:bv
+bệnh viện:bv
+bệnh viện:bv
+bệnh viện:bv
+cán bộ:cb
+cán bộ:cb
+cán bộ:cb
+cán bộ:cb
+cán bộ:cb
+cán bộ:cb
+cán bộ:cb
+cán bộ:cb
+chế biến:cb
+chế biến:cb
+chế biến:cb
+chế biến:cb
+chế biến:cb
+chế biến:cb
+cơ bản:cb
+cơ bản:cb
+cơ bản:cb
+cơ bản:cb
+cơ bản:cb
+cơ bản:cb
+cơ bản:cb
+cơ bản:cb
+cải cách:cc
+cải cách:cc
+cải cách:cc
+cải cách:cc
+cải cách:cc
+công chức:cc
+công chức:cc
+công chức:cc
+công chức:cc
+công chức:cc
+công chức:cc
+công chức:cc
+chung kết:ck
+chung kết:ck
+chung kết:ck
+chung kết:ck
+chung kết:ck
+chung kết:ck
+chứng khoán:ck
+chứng khoán:ck
+chứng khoán:ck
+chứng khoán:ck
+chứng khoán:ck
+chồng:ck
+chồng:ck
+chồng:ck
+chồng:ck
+chồng:ck
+chứng khoán:ck
+chứng khoán:ck
+chuyên khoa:ck
+chuyên khoa:ck
+chuyên khoa:ck
+chuyên khoa:ck
+chuyên khoa:ck
+chuyên khoa:ck
+chuyển khoản:ck
+chuyển khoản:ck
+chuyển khoản:ck
+chuyển khoản:ck
+chuyển khoản:ck
+chuyển khoản:ck
+chuyển khoản:ck
+chuyển khoản:ck
+cửa khẩu:ck
+cửa khẩu:ck
+cửa khẩu:ck
+cửa khẩu:ck
+cửa khẩu:ck
+chi nhánh:cn
+chi nhánh:cn
+chi nhánh:cn
+chi nhánh:cn
+chi nhánh:cn
+chi nhánh:cn
+chi nhánh:cn
+chi nhánh:cn
+chuyển nhà:cn
+chuyển nhà:cn
+chuyển nhà:cn
+chuyển nhà:cn
+chuyển nhà:cn
+chuyển nhượng:cn
+chuyển nhượng:cn
+chuyển nhượng:cn
+chuyển nhượng:cn
+chuyển nhượng:cn
+công nghệ:cn
+công nghệ:cn
+công nghệ:cn
+công nghệ:cn
+công nghệ:cn
+công nghệ:cn
+công nghệ:cn
+công nghệ:cn
+công nghiệp:cn
+công nghiệp:cn
+công nghiệp:cn
+công nghiệp:cn
+công nghiệp:cn
+công nghiệp:cn
+công nghiệp:cn
+công nghiệp:cn
+công nhân:cn
+công nhân:cn
+công nhân:cn
+công nhân:cn
+công nhân:cn
+công nhân:cn
+công nhân:cn
+công nhân:cn
+cử nhân:cn
+cử nhân:cn
+cử nhân:cn
+cử nhân:cn
+cử nhân:cn
+cử nhân:cn
+cử nhân:cn
+cử nhân:cn
+chính phủ:cp
+chính phủ:cp
+chính phủ:cp
+chính phủ:cp
+chính phủ:cp
+chính phủ:cp
+chính phủ:cp
+chính phủ:cp
+cổ phần:cp
+cổ phần:cp
+cổ phần:cp
+cổ phần:cp
+cổ phần:cp
+cổ phần:cp
+cổ phần:cp
+cổ phần:cp
+cổ phiếu:cp
+cổ phiếu:cp
+cổ phiếu:cp
+cổ phiếu:cp
+cổ phiếu:cp
+cổ phiếu:cp
+cổ phiếu:cp
+cổ phiếu:cp
+cảnh sát:cs
+cảnh sát:cs
+cảnh sát:cs
+cảnh sát:cs
+cảnh sát:cs
+cảnh sát:cs
+cơ sở:cs
+cơ sở:cs
+cơ sở:cs
+cơ sở:cs
+cơ sở:cs
+cơ sở:cs
+cơ sở:cs
+cơ sở:cs
+cơ sở:cs
+cơ sở:cs
+cơ sở:cs
+cơ sở:cs
+cơ sở:cs
+cuộc sống:cs
+cuộc sống:cs
+cuộc sống:cs
+cuộc sống:cs
+cuộc sống:cs
+cuộc sống:cs
+cuộc sống:cs
+cuộc sống:cs
+cảnh sát điều tra:csđt
+cảnh sát điều tra:csđt
+cảnh sát điều tra:csđt
+cảnh sát điều tra:csđt
+cảnh sát điều tra:csđt
+cảnh sát điều tra:csđt
+cảnh sát điều tra:csđt
+cảnh sát điều tra:csđt
+cơ sở đào tạo:csđt
+cơ sở đào tạo:csđt
+cơ sở đào tạo:csđt
+cơ sở đào tạo:csđt
+cơ sở đào tạo:csđt
+cơ sở đào tạo:csđt
+cơ sở đào tạo:csđt
+cơ sở đào tạo:csđt
+chia tay:ct
+chia tay:ct
+chia tay:ct
+chia tay:ct
+chia tay:ct
+chính trị:ct
+chính trị:ct
+chính trị:ct
+chính trị:ct
+chính trị:ct
+công thức:ct
+công thức:ct
+công thức:ct
+công thức:ct
+công thức:ct
+công thức:ct
+công thức:ct
+công thức:ct
+công ty:ct
+công ty:ct
+công ty:ct
+công ty:ct
+công ty:ct
+công ty:cty
+công ty:cty
+công ty:cty
+công ty:cty
+công ty:cty
+công ty:cty
+công ty:cty
+công ty:cty
+cục thú y:cty
+cục thú y:cty
+cục thú y:cty
+cục thú y:cty
+cục thú y:cty
+chuyên viên:cv
+chuyên viên:cv
+chuyên viên:cv
+chuyên viên:cv
+chuyên viên:cv
+chuyên viên:cv
+chuyên viên:cv
+chuyên viên:cv
+công văn:cv
+công văn:cv
+công văn:cv
+công văn:cv
+công văn:cv
+công văn:cv
+công văn:cv
+công văn:cv
+đặc biệt:đb
+đặc biệt:đb
+đặc biệt:đb
+đặc biệt:đb
+đặc biệt:đb
+đại biểu:đb
+đại biểu:đb
+đại biểu:đb
+đại biểu:đb
+đại biểu:đb
+đồng bằng:đb
+đồng bằng:đb
+đồng bằng:đb
+đồng bằng:đb
+đồng bằng:đb
+địa chỉ:đc
+địa chỉ:đc
+địa chỉ:đc
+địa chỉ:đc
+địa chỉ:đc
+điều chế:đc
+điều chế:đc
+điều chế:đc
+điều chế:đc
+điều chế:đc
+đồng chí:đc
+đồng chí:đc
+đồng chí:đc
+đồng chí:đc
+đồng chí:đc
+được:đc
+được:đc
+được:đc
+được:đc
+được:đc
+được:đc
+được:đc
+được:đc
+dân dụng:dd
+dân dụng:dd
+dân dụng:dd
+dân dụng:dd
+dân dụng:dd
+dinh dưỡng:dd
+dinh dưỡng:dd
+dinh dưỡng:dd
+dinh dưỡng:dd
+dinh dưỡng:dd
+đất đai:đđ
+đất đai:đđ
+đất đai:đđ
+đất đai:đđ
+đất đai:đđ
+động đất:đđ
+động đất:đđ
+động đất:đđ
+động đất:đđ
+động đất:đđ
+đường:đg
+đường:đg
+đường:đg
+đường:đg
+đường:đg
+đang:đg
+đang:đg
+đang:đg
+đang:đg
+đang:đg
+đại học công đoàn:đhcđ
+đại học công đoàn:đhcđ
+đại học công đoàn:đhcđ
+đại học công đoàn:đhcđ
+đại học công đoàn:đhcđ
+đại hội cổ đông:đhcđ
+đại hội cổ đông:đhcđ
+đại hội cổ đông:đhcđ
+đại hội cổ đông:đhcđ
+đại hội cổ đông:đhcđ
+đăng ký:đk
+đăng ký:đk
+đăng ký:đk
+đăng ký:đk
+đăng ký:đk
+điều kiện:đk
+điều kiện:đk
+điều kiện:đk
+điều kiện:đk
+điều kiện:đk
+dân lập:dl
+dân lập:dl
+dân lập:dl
+dân lập:dl
+dân lập:dl
+du lịch:dl
+du lịch:dl
+du lịch:dl
+du lịch:dl
+du lịch:dl
+dữ liệu:dl
+dữ liệu:dl
+dữ liệu:dl
+dữ liệu:dl
+dữ liệu:dl
+đo lường:đl
+đo lường:đl
+đo lường:đl
+đo lường:đl
+đo lường:đl
+danh sách:ds
+danh sách:ds
+danh sách:ds
+dân số:ds
+dân số:ds
+dân số:ds
+dân tộc:dt
+dân tộc:dt
+dân tộc:dt
+dân tộc:dt
+dân tộc:dt
+dự tuyển:dt
+dự tuyển:dt
+dự tuyển:dt
+dự tuyển:dt
+dự tuyển:dt
+đào tạo:đt
+đào tạo:đt
+đào tạo:đt
+đào tạo:đt
+đào tạo:đt
+điện thoại:đt
+điện thoại:đt
+điện thoại:đt
+điện thoại:đt
+điện thoại:đt
+điện tử:đt
+điện tử:đt
+điện tử:đt
+điện tử:đt
+điện tử:đt
+điều tra:đt
+điều tra:đt
+điều tra:đt
+điều tra:đt
+điều tra:đt
+đối tượng:đt
+đối tượng:đt
+đối tượng:đt
+đối tượng:đt
+đối tượng:đt
+đội tuyển:đt
+đội tuyển:đt
+đội tuyển:đt
+đội tuyển:đt
+đội tuyển:đt
+dịch vụ:dv
+dịch vụ:dv
+dịch vụ:dv
+dịch vụ:dv
+dịch vụ:dv
+diễn viên:dv
+diễn viên:dv
+diễn viên:dv
+diễn viên:dv
+diễn viên:dv
+dịch vụ thông tin:dvtt
+dịch vụ thông tin:dvtt
+dịch vụ thông tin:dvtt
+dịch vụ thông tin:dvtt
+dịch vụ thông tin:dvtt
+dịch vụ trực tuyến:dvtt
+dịch vụ trực tuyến:dvtt
+dịch vụ trực tuyến:dvtt
+dịch vụ trực tuyến:dvtt
+dịch vụ trực tuyến:dvtt
+gia đình:gđ
+gia đình:gđ
+gia đình:gđ
+gia đình:gđ
+gia đình:gđ
+giám đốc:gđ
+giám đốc:gđ
+giám đốc:gđ
+giám đốc:gđ
+giám đốc:gđ
+gia sư:gs
+gia sư:gs
+gia sư:gs
+gia sư:gs
+gia sư:gs
+giáo sư:gs
+giáo sư:gs
+giáo sư:gs
+giáo sư:gs
+giáo sư:gs
+giá trị:gt
+giá trị:gt
+giá trị:gt
+giá trị:gt
+giá trị:gt
+giao thông:gt
+giao thông:gt
+giao thông:gt
+giao thông:gt
+giao thông:gt
+giải thích:gt
+giải thích:gt
+giải thích:gt
+giải thích:gt
+giải thích:gt
+giới thiệu:gt
+giới thiệu:gt
+giới thiệu:gt
+giới thiệu:gt
+giới thiệu:gt
+giao thông công chánh:gtcc
+giao thông công chánh:gtcc
+giao thông công chánh:gtcc
+giao thông công cộng:gtcc
+giao thông công cộng:gtcc
+giao thông công cộng:gtcc
+giảng viên:gv
+giảng viên:gv
+giảng viên:gv
+giảng viên:gv
+giảng viên:gv
+giáo viên:gv
+giáo viên:gv
+giáo viên:gv
+giáo viên:gv
+giáo viên:gv
+giáo viên mầm non:gvmn
+giáo viên mầm non:gvmn
+giáo viên mầm non:gvmn
+giáo viên mầm non:gvmn
+giáo viên mầm non:gvmn
+giáo viên miền núi:gvmn
+giáo viên miền núi:gvmn
+giáo viên miền núi:gvmn
+giáo viên miền núi:gvmn
+giáo viên miền núi:gvmn
+hành chính:hc
+hành chính:hc
+hành chính:hc
+hành chính:hc
+hành chính:hc
+huy chương:hc
+huy chương:hc
+huy chương:hc
+huy chương:hc
+huy chương:hc
+học:hc
+học:hc
+học:hc
+học:hc
+học:hc
+hộ chiếu:hc
+hộ chiếu:hc
+hộ chiếu:hc
+hộ chiếu:hc
+hộ chiếu:hc
+hướng dẫn:hd
+hướng dẫn:hd
+hướng dẫn:hd
+hướng dẫn:hd
+hướng dẫn:hd
+hành động:hđ
+hành động:hđ
+hành động:hđ
+hành động:hđ
+hành động:hđ
+hoạt động:hđ
+hoạt động:hđ
+hoạt động:hđ
+hoạt động:hđ
+hoạt động:hđ
+hội đồng:hđ
+hội đồng:hđ
+hội đồng:hđ
+hội đồng:hđ
+hội đồng:hđ
+hợp đồng:hđ
+hợp đồng:hđ
+hợp đồng:hđ
+hợp đồng:hđ
+hợp đồng:hđ
+hệ điều hành:hđh
+hệ điều hành:hđh
+hệ điều hành:hđh
+hệ điều hành:hđh
+hệ điều hành:hđh
+hiện đại hoá:hđh
+hiện đại hoá:hđh
+hiện đại hoá:hđh
+hiện đại hoá:hđh
+hiện đại hoá:hđh
+hiệp hội:hh
+hiệp hội:hh
+hiệp hội:hh
+hiệp hội:hh
+hiệp hội:hh
+hoa hậu:hh
+hoa hậu:hh
+hoa hậu:hh
+hoa hậu:hh
+hoa hậu:hh
+hội hoạ:hh
+hội hoạ:hh
+hội hoạ:hh
+hội hoạ:hh
+hội hoạ:hh
+hội họp:hh
+hội họp:hh
+hội họp:hh
+hội họp:hh
+hội họp:hh
+hỗn hợp:hh
+hỗn hợp:hh
+hỗn hợp:hh
+hỗn hợp:hh
+hỗn hợp:hh
+hội nghị:hn
+hội nghị:hn
+hội nghị:hn
+hội nghị:hn
+hội nghị:hn
+học phần:hp
+học phần:hp
+học phần:hp
+học phí:hp
+học phí:hp
+học phí:hp
+hồ sơ:hs
+hồ sơ:hs
+hồ sơ:hs
+hồ sơ:hs
+hồ sơ:hs
+học sinh:hs
+học sinh:hs
+học sinh:hs
+học sinh:hs
+học sinh:hs
+học viên:hv
+học viên:hv
+học viên:hv
+học viên:hv
+học viên:hv
+học viện:hv
+học viện:hv
+học viện:hv
+học viện:hv
+học viện:hv
+kế hoạch:kh
+kế hoạch:kh
+kế hoạch:kh
+kế hoạch:kh
+kế hoạch:kh
+khách hàng:kh
+khách hàng:kh
+khách hàng:kh
+khách hàng:kh
+khách hàng:kh
+khoa học:kh
+khoa học:kh
+khoa học:kh
+khoa học:kh
+khoa học:kh
+khoa học xã hội:khxh
+khoa học xã hội:khxh
+khoa học xã hội:khxh
+khoa học xã hội:khxh
+khoa học xã hội:khxh
+khách sạn:ks
+khách sạn:ks
+khách sạn:ks
+khách sạn:ks
+khách sạn:ks
+kĩ sư:ks
+kĩ sư:ks
+kĩ sư:ks
+kĩ sư:ks
+kĩ sư:ks
+kĩ sư:ks
+kĩ sư:ks
+kĩ sư:ks
+kiểm sát:ks
+kiểm sát:ks
+kiểm sát:ks
+kiểm sát:ks
+kiểm sát:ks
+kiểm sát:ks
+kế toán:kt
+kế toán:kt
+kế toán:kt
+kĩ thuật:kt
+kĩ thuật:kt
+kĩ thuật:kt
+kĩ thuật:kt
+kĩ thuật:kt
+kĩ thuật:kt
+kiểm toán:kt
+kiểm toán:kt
+kiểm toán:kt
+kinh tế:kt
+kinh tế:kt
+kinh tế:kt
+kinh tế:kt
+liên hiệp:lh
+liên hiệp:lh
+liên hiệp:lh
+liên hoan:lh
+liên hoan:lh
+liên hoan:lh
+liên hoan:lh
+liên hoan:lh
+liên lạc:ll
+liên lạc:ll
+liên lạc:ll
+liên lạc:ll
+liên lạc:ll
+lực lượng:ll
+lực lượng:ll
+lực lượng:ll
+lực lượng:ll
+lực lượng:ll
+lãi suất:ls
+lãi suất:ls
+lãi suất:ls
+lịch sử:ls
+lịch sử:ls
+lịch sử:ls
+liệt sĩ:ls
+liệt sĩ:ls
+liệt sĩ:ls
+liệt sĩ:ls
+liệt sĩ:ls
+liệt sĩ:ls
+luật sư:ls
+luật sư:ls
+luật sư:ls
+luật sư:ls
+luật sư:ls
+luật sư:ls
+mầm non:mn
+mầm non:mn
+mầm non:mn
+mầm non:mn
+mầm non:mn
+mầm non:mn
+miền núi:mn
+miền núi:mn
+miền núi:mn
+miền núi:mn
+miền núi:mn
+miền núi:mn
+miền núi:mn
+mọi người:mn
+mọi người:mn
+mọi người:mn
+mặt trận:mt
+mặt trận:mt
+mặt trận:mt
+mặt trận:mt
+mặt trận:mt
+mặt trận:mt
+mặt trận:mt
+mặt trận:mt
+mặt trăng:mt
+mặt trăng:mt
+mặt trăng:mt
+mặt trăng:mt
+mặt trăng:mt
+mặt trăng:mt
+mặt trăng:mt
+mặt trăng:mt
+mặt trời:mt
+mặt trời:mt
+mặt trời:mt
+mặt trời:mt
+mặt trời:mt
+mặt trời:mt
+mặt trời:mt
+mặt trời:mt
+máy tính:mt
+máy tính:mt
+máy tính:mt
+máy tính:mt
+máy tính:mt
+máy tính:mt
+máy tính:mt
+máy tính:mt
+môi trường:mt
+môi trường:mt
+môi trường:mt
+môi trường:mt
+môi trường:mt
+môi trường:mt
+môi trường:mt
+môi trường:mt
+máy tính điện tử:mtđt
+máy tính điện tử:mtđt
+máy tính điện tử:mtđt
+máy tính điện tử:mtđt
+máy tính điện tử:mtđt
+môi trường đô thị:mtđt
+môi trường đô thị:mtđt
+môi trường đô thị:mtđt
+môi trường đô thị:mtđt
+môi trường đô thị:mtđt
+nghiên cứu:nc
+nghiên cứu:nc
+nghiên cứu:nc
+nghiên cứu:nc
+nghiên cứu:nc
+người đưa tin:nđt
+người đưa tin:nđt
+người đưa tin:nđt
+nhà đầu tư:nđt
+nhà đầu tư:nđt
+nhà đầu tư:nđt
+nhà đầu tư:nđt
+nhà đầu tư:nđt
+ngân hàng đầu tư:nhđt
+ngân hàng đầu tư:nhđt
+ngân hàng đầu tư:nhđt
+ngân hàng điện tử:nhđt
+ngân hàng điện tử:nhđt
+ngân hàng điện tử:nhđt
+ngân hàng điện tử:nhđt
+ngân hàng điện tử:nhđt
+ngoại ngữ:nn
+ngoại ngữ:nn
+ngoại ngữ:nn
+ngoại ngữ:nn
+ngoại ngữ:nn
+ngôn ngữ:nn
+ngôn ngữ:nn
+ngôn ngữ:nn
+ngôn ngữ:nn
+ngôn ngữ:nn
+nhà nước:nn
+nhà nước:nn
+nhà nước:nn
+nhà nước:nn
+nhà nước:nn
+nông nghiệp:nn
+nông nghiệp:nn
+nông nghiệp:nn
+nông nghiệp:nn
+nông nghiệp:nn
+nghệ sĩ:ns
+nghệ sĩ:ns
+nghệ sĩ:ns
+nghệ sĩ:ns
+nghệ sĩ:ns
+nhịp sống:ns
+nhịp sống:ns
+nhịp sống:ns
+nhịp sống:ns
+nhịp sống:ns
+ngày sản xuất:nsx
+ngày sản xuất:nsx
+ngày sản xuất:nsx
+ngày sản xuất:nsx
+ngày sản xuất:nsx
+nhà sản xuất:nsx
+nhà sản xuất:nsx
+nhà sản xuất:nsx
+nhà sản xuất:nsx
+nhà sản xuất:nsx
+nhắn tin:nt
+nhắn tin:nt
+nhắn tin:nt
+nhắn tin:nt
+nhắn tin:nt
+như thế:nt
+như thế:nt
+như thế:nt
+như thế:nt
+như thế:nt
+người tiêu dùng:ntd
+người tiêu dùng:ntd
+người tiêu dùng:ntd
+người tiêu dùng:ntd
+người tiêu dùng:ntd
+nhà tuyển dụng:ntd
+nhà tuyển dụng:ntd
+nhà tuyển dụng:ntd
+nhà tuyển dụng:ntd
+nhà tuyển dụng:ntd
+nguyện vọng:nv
+nguyện vọng:nv
+nguyện vọng:nv
+nguyện vọng:nv
+nguyện vọng:nv
+nhân văn:nv
+nhân văn:nv
+nhân văn:nv
+nhân văn:nv
+nhân vật:nv
+nhân vật:nv
+nhân vật:nv
+nhân viên:nv
+nhân viên:nv
+nhân viên:nv
+phòng giao dịch:pgd
+phòng giao dịch:pgd
+phòng giao dịch:pgd
+phòng giáo dục:pgd
+phòng giáo dục:pgd
+phòng giáo dục:pgd
+phải không:pk
+phải không:pk
+phải không:pk
+phải không:pk
+phải không:pk
+phòng khám:pk
+phòng khám:pk
+phòng khám:pk
+phòng khám:pk
+phòng khám:pk
+biết:pk
+biết:pk
+biết:pk
+biết:pk
+biết:pk
+phái mạnh:pm
+phái mạnh:pm
+phái mạnh:pm
+phần mềm:pm
+phần mềm:pm
+phần mềm:pm
+phần mềm:pm
+phần mềm:pm
+phát thanh truyền hình:ptth
+phát thanh truyền hình:ptth
+phát thanh truyền hình:ptth
+phổ thông trung học:ptth
+phổ thông trung học:ptth
+phổ thông trung học:ptth
+phỏng vấn:pv
+phỏng vấn:pv
+phỏng vấn:pv
+phóng viên:pv
+phóng viên:pv
+phóng viên:pv
+quận:q
+quận:q
+quận:q
+quý:q
+quý:q
+quý:q
+quảng cáo:qc
+quảng cáo:qc
+quảng cáo:qc
+quảng cáo:qc
+quảng cáo:qc
+quy chế:qc
+quy chế:qc
+quy chế:qc
+quy chế:qc
+quy chế:qc
+quân đội:qđ
+quân đội:qđ
+quân đội:qđ
+quyết định:qđ
+quyết định:qđ
+quyết định:qđ
+quản lý:ql
+quản lý:ql
+quản lý:ql
+quốc lộ:ql
+quốc lộ:ql
+quốc lộ:ql
+quản lý đào tạo:qlđt
+quản lý đào tạo:qlđt
+quản lý đào tạo:qlđt
+quản lý đô thị:qlđt
+quản lý đô thị:qlđt
+quản lý đô thị:qlđt
+sân khấu:sk
+sân khấu:sk
+sân khấu:sk
+sân khấu:sk
+sân khấu:sk
+sức khỏe:sk
+sức khỏe:sk
+sức khỏe:sk
+sức khỏe:sk
+sức khỏe:sk
+sinh năm:sn
+sinh năm:sn
+sinh năm:sn
+sinh ngày:sn
+sinh ngày:sn
+sinh ngày:sn
+sinh nhật:sn
+sinh nhật:sn
+sinh nhật:sn
+suy nghĩ:sn
+suy nghĩ:sn
+suy nghĩ:sn
+sản phẩm:sp
+sản phẩm:sp
+sản phẩm:sp
+sư phạm:sp
+sư phạm:sp
+sư phạm:sp
+sáng tác:st
+sáng tác:st
+sáng tác:st
+sưu tầm:st
+sưu tầm:st
+sưu tầm:st
+toà án nhân dân:tand
+toà án nhân dân:tand
+toà án nhân dân:tand
+toà án nhân dân:tand
+toà án nhân dân:tand
+trung bình:tb
+trung bình:tb
+trung bình:tb
+trung bình:tb
+trung bình:tb
+thông báo:tb
+thông báo:tb
+thông báo:tb
+thông báo:tb
+thông báo:tb
+thương binh:tb
+thương binh:tb
+thương binh:tb
+tài chính:tc
+tài chính:tc
+tài chính:tc
+tài chính:tc
+tài chính:tc
+tiêu chuẩn:tc
+tiêu chuẩn:tc
+tiêu chuẩn:tc
+tiêu chuẩn:tc
+tiêu chuẩn:tc
+tổng cộng:tc
+tổng cộng:tc
+tổng cộng:tc
+tổng cộng:tc
+tổng cộng:tc
+trung cấp:tc
+trung cấp:tc
+trung cấp:tc
+trung cấp:tc
+trung cấp:tc
+tạp chí cộng sản:tccs
+tạp chí cộng sản:tccs
+tạp chí cộng sản:tccs
+tạp chí cộng sản:tccs
+tạp chí cộng sản:tccs
+tổ chức cơ sở:tccs
+tổ chức cơ sở:tccs
+tổ chức cơ sở:tccs
+tổ chức cơ sở:tccs
+tổ chức cơ sở:tccs
+tài chính kế hoạch:tckh
+tài chính kế hoạch:tckh
+tài chính kế hoạch:tckh
+tài chính kế hoạch:tckh
+tài chính kế hoạch:tckh
+tạp chí khoa học:tckh
+tạp chí khoa học:tckh
+tạp chí khoa học:tckh
+tạp chí khoa học:tckh
+tạp chí khoa học:tckh
+trái cây không hạt:tckh
+tổng công ty:tct
+tổng công ty:tct
+tổng công ty:tct
+tổng công ty:tct
+tổng công ty:tct
+tổng cục thuế:tct
+tổng cục thuế:tct
+tổng cục thuế:tct
+tổng cục thuế:tct
+tổng cục thuế:tct
+tác dụng:td
+tác dụng:td
+tác dụng:td
+tác dụng:td
+tác dụng:td
+thể dục:td
+thể dục:td
+thể dục:td
+thể dục:td
+thể dục:td
+tình dục:td
+tình dục:td
+tình dục:td
+tình dục:td
+tình dục:td
+tác động:tđ
+tác động:tđ
+tác động:tđ
+tác động:tđ
+tác động:tđ
+từ điển:tđ
+từ điển:tđ
+từ điển:tđ
+từ điển:tđ
+từ điển:tđ
+thế giới:tg
+thế giới:tg
+thế giới:tg
+thế giới:tg
+thế giới:tg
+thời gian:tg
+thời gian:tg
+thời gian:tg
+thời gian:tg
+thời gian:tg
+thực hành:th
+thực hành:th
+thực hành:th
+tiểu học:th
+tiểu học:th
+tiểu học:th
+trung học:th
+trung học:th
+trung học:th
+trường hợp:th
+trường hợp:th
+trường hợp:th
+truyền hình:th
+truyền hình:th
+truyền hình:th
+tiểu học dân lập:thdl
+tiểu học dân lập:thdl
+tiểu học dân lập:thdl
+tiểu học dân lập:thdl
+tiểu học dân lập:thdl
+trung học dân lập:thdl
+trung học dân lập:thdl
+trung học dân lập:thdl
+trung học dân lập:thdl
+trung học dân lập:thdl
+thạc sĩ:ths
+thạc sĩ:ths
+thạc sĩ:ths
+thạc sĩ:ths
+thạc sĩ:ths
+tín hiệu số:ths
+tín hiệu số:ths
+tín hiệu số:ths
+tín hiệu số:ths
+tín hiệu số:ths
+truyền hình thực tế:thtt
+truyền hình thực tế:thtt
+truyền hình thực tế:thtt
+truyền hình thực tế:thtt
+truyền hình thực tế:thtt
+truyền hình trực tiếp:thtt
+truyền hình trực tiếp:thtt
+truyền hình trực tiếp:thtt
+truyền hình trực tiếp:thtt
+truyền hình trực tiếp:thtt
+tài khoản:tk
+tài khoản:tk
+tài khoản:tk
+tài khoản:tk
+tài khoản:tk
+thiết kế:tk
+thiết kế:tk
+thiết kế:tk
+thiết kế:tk
+thiết kế:tk
+tiết kiệm:tk
+tiết kiệm:tk
+tiết kiệm:tk
+tiết kiệm:tk
+tiết kiệm:tk
+thống kê:tk
+thống kê:tk
+thống kê:tk
+thống kê:tk
+thống kê:tk
+thương mại:tm
+thương mại:tm
+thương mại:tm
+thương mại:tm
+thương mại:tm
+tiền mặt:tm
+tiền mặt:tm
+tiền mặt:tm
+tiền mặt:tm
+tiền mặt:tm
+tài nguyên:tn
+tài nguyên:tn
+tài nguyên:tn
+thanh niên:tn
+thanh niên:tn
+thanh niên:tn
+thí nghiệm:tn
+thí nghiệm:tn
+thí nghiệm:tn
+thiên nhiên:tn
+thiên nhiên:tn
+thiên nhiên:tn
+tình nguyện:tn
+tình nguyện:tn
+tình nguyện:tn
+tự nhiên:tn
+tự nhiên:tn
+tự nhiên:tn
+tin nhắn:tn
+tin nhắn:tn
+tin nhắn:tn
+thế này:tn
+thế này:tn
+thế này:tn
+thế nào:tn
+thế nào:tn
+thế nào:tn
+tài nguyên thiên nhiên:tntn
+tài nguyên thiên nhiên:tntn
+tài nguyên thiên nhiên:tntn
+thanh niên tình nguyện:tntn
+thanh niên tình nguyện:tntn
+thanh niên tình nguyện:tntn
+thanh niên việt nam:tnvn
+thanh niên việt nam:tnvn
+thanh niên việt nam:tnvn
+tiếng nói việt nam:tnvn
+tiếng nói việt nam:tnvn
+tiếng nói việt nam:tnvn
+thành phố:tp
+thành phố:tp
+thành phố:tp
+tác phẩm:tp
+tác phẩm:tp
+tác phẩm:tp
+tội phạm:tp
+tội phạm:tp
+tội phạm:tp
+thạc sĩ:ts
+thạc sĩ:ts
+thạc sĩ:ts
+thạc sĩ:ts
+thạc sĩ:ts
+tiến sĩ:ts
+tiến sĩ:ts
+tiến sĩ:ts
+tiến sĩ:ts
+tiến sĩ:ts
+tại sao:ts
+tại sao:ts
+tại sao:ts
+tại sao:ts
+tại sao:ts
+thị trấn:tt
+thị trấn:tt
+thị trấn:tt
+thị trường:tt
+thị trường:tt
+thị trường:tt
+thông tin:tt
+thông tin:tt
+thông tin:tt
+thủ tướng:tt
+thủ tướng:tt
+thủ tướng:tt
+tổng thống:tt
+tổng thống:tt
+tổng thống:tt
+tổng thống:tt
+tổng thống:tt
+trung tâm:tt
+trung tâm:tt
+trung tâm:tt
+truyền thông:tt
+truyền thông:tt
+truyền thông:tt
+tuổi trẻ:tt
+tuổi trẻ:tt
+tuổi trẻ:tt
+tuổi trẻ:tt
+tuổi trẻ:tt
+thị trường chứng khoán:ttck
+thị trường chứng khoán:ttck
+thị trường chứng khoán:ttck
+thị trường chứng khoán:ttck
+thị trường chứng khoán:ttck
+trung tâm chứng khoán:ttck
+trung tâm cai nghiện:ttcn
+trung tâm cai nghiện:ttcn
+trung tâm cai nghiện:ttcn
+trung tâm cai nghiện:ttcn
+trung tâm cai nghiện:ttcn
+trung tâm công nghiệp:ttcn
+trung tâm công nghiệp:ttcn
+trung tâm công nghiệp:ttcn
+trung tâm công nghiệp:ttcn
+trung tâm công nghiệp:ttcn
+thanh tra chính phủ:ttcp
+thanh tra chính phủ:ttcp
+thanh tra chính phủ:ttcp
+thủ tướng chính phủ:ttcp
+thủ tướng chính phủ:ttcp
+thủ tướng chính phủ:ttcp
+thanh tra giao thông:ttgt
+thanh tra giao thông:ttgt
+thanh tra giao thông:ttgt
+trật tự giao thông:ttgt
+trật tự giao thông:ttgt
+trật tự giao thông:ttgt
+thanh tra nhà nước:ttnn
+thanh tra nhà nước:ttnn
+thanh tra nhà nước:ttnn
+trung tâm ngoại ngữ:ttnn
+trung tâm ngoại ngữ:ttnn
+trung tâm ngoại ngữ:ttnn
+thể thao việt nam:ttvn
+thể thao việt nam:ttvn
+thể thao việt nam:ttvn
+thể thao việt nam:ttvn
+thể thao việt nam:ttvn
+thông tấn việt nam:ttvn
+thông tấn việt nam:ttvn
+thông tấn việt nam:ttvn
+thông tấn việt nam:ttvn
+thông tấn việt nam:ttvn
+trí tuệ việt nam:ttvn
+trí tuệ việt nam:ttvn
+trí tuệ việt nam:ttvn
+trí tuệ việt nam:ttvn
+trí tuệ việt nam:ttvn
+thư viện:tv
+thư viện:tv
+thư viện:tv
+thư viện:tv
+thư viện:tv
+ti vi:tv
+ti vi:tv
+ti vi:tv
+ti vi:tv
+ti vi:tv
+vợ chồng:vc
+vợ chồng:vc
+vợ chồng:vc
+việc:vc
+việc:vc
+việc:vc
+vấn đề:vđ
+vấn đề:vđ
+vấn đề:vđ
+vấn đề:vđ
+vấn đề:vđ
+vô địch:vđ
+vô địch:vđ
+vô địch:vđ
+vô địch:vđ
+vô địch:vđ
+văn hóa thể thao:vhtt
+văn hóa thể thao:vhtt
+văn hóa thể thao:vhtt
+văn hóa thể thao:vhtt
+văn hóa thể thao:vhtt
+văn hóa thông tin:vhtt
+văn hóa thông tin:vhtt
+văn hóa thông tin:vhtt
+văn hóa thông tin:vhtt
+văn hóa thông tin:vhtt
+văn hóa truyền thông:vhtt
+văn hóa truyền thông:vhtt
+văn hóa truyền thông:vhtt
+văn hóa truyền thông:vhtt
+văn hóa truyền thông:vhtt
+văn hoá thể thao du lịch:vhttdl
+văn hoá thể thao du lịch:vhttdl
+văn hoá thể thao du lịch:vhttdl
+văn hoá thể thao du lịch:vhttdl
+văn hoá thể thao du lịch:vhttdl
+vật lý:vl
+vật lý:vl
+vật lý:vl
+vật lý:vl
+vật lý:vl
+vệ sinh:vs
+vệ sinh:vs
+vệ sinh:vs
+vệ sinh:vs
+vệ sinh:vs
+với:vs
+với:vs
+với:vs
+với:vs
+với:vs
+vi tính:vt
+vi tính:vt
+vi tính:vt
+vi tính:vt
+vi tính:vt
+viễn thông:vt
+viễn thông:vt
+viễn thông:vt
+viễn thông:vt
+viễn thông:vt
+vũ trụ:vt
+vũ trụ:vt
+vũ trụ:vt
+vũ trụ:vt
+vũ trụ:vt
+vân vân:vv
+vân vân:vv
+vân vân:vv
+vân vân:vv
+vân vân:vv
+về việc:vv
+về việc:vv
+về việc:vv
+về việc:vv
+về việc:vv
+xin lỗi:xl
+xin lỗi:xl
+xin lỗi:xl
+xin lỗi:xl
+xin lỗi:xl
+xem xét:xx
+xem xét:xx
+xem xét:xx
+xem xét:xx
+xem xét:xx
+xét xử:xx
+xét xử:xx
+xét xử:xx
+xét xử:xx
+xét xử:xx
+mình:mk
+mình:mk
+mình:mk
+mình:mk
+mình:mk
+mật khẩu:mk
+mật khẩu:mk
+mật khẩu:mk
+an giang:ag
+an ninh nhân dân:annd
+an ninh thủ đô:antđ
+an ninh trật tự:antt
+an ninh điều tra:anđt
+an toàn giao thông:atgt
+an toàn thông tin:attt
+an toàn thực phẩm:attp
+an toàn trật tự giao thông:atttgt
+an toàn trật tự:attt
+an toàn vệ sinh thực phẩm:atvstp
+anh chị em:ace
+ban biên tập:bbt
+ban chấp hành trung ương:bchtư
+ban chấp hành:bch
+ban chỉ huy chiến dịch:bchcd
+ban chỉ huy trung ương:bchtw
+ban chỉ đạo phòng chống tham nhũng trung ương:bcđpctntư
+ban chỉ đạo quốc gia:bcđqg
+ban chỉ đạo tuyển sinh:bcđts
+ban chỉ đạo đổi mới đại học:bcđđmđh
+ban chỉ đạo:bcđ
+ban giám hiệu:bgh
+ban giám khảo:bgk
+ban giám đốc:bgđ
+ban huấn luyện:bhl
+ban kiểm soát:bks
+ban lãnh đạo:blđ
+ban quản lý dự án:bqlda
+ban quản lý:bql
+ban thường vụ:btv
+ban tuyển sinh:bts
+ban tổ chức:btc
+biên phòng:bp
+biên tập viên:btv
+biến đổi khí hậu:bđkh
+biến động:bđ
+biển kiểm soát:bks
+biển số:bs
+bà rịa vũng tàu:brvt
+bà rịa vũng tàu:brvt:
+bài tập:bt
+bác sĩ:bs
+bách hoá xanh:bhx
+bách khoa:bk
+bán công:bc
+bán hàng đa cấp:bhđc
+báo cáo nghiên cứu khả thi:bcnckt
+báo cáo tài chính:bctc
+báo động:bđ
+bình dương:bd
+bình dương:bd
+bình luận viên:blv
+bình phước:bp
+bình thuận:bt
+bình định:bđ
+bóng đá quốc gia:bđqg
+bóng đá việt nam:bđvn
+bóng đá:bđ
+bưu chính viễn thông:bcvt
+bưu chính điện tử:bcđt
+bưu chính:bc
+bưu điện hà nội:bđhn
+bạc liêu:bl
+bảng xếp hạng:bxh
+bảo hiểm tai nạn:bhtn
+bảo hiểm thất nghiệp:bhtn
+bảo hiểm xã hội:bhxh
+bảo hiểm y tế:bhyt
+bảo hiểm:bh
+bảo trì:bt
+bảo trợ bệnh nhân nghèo:btbnn
+bảo vệ môi trường:bvmt
+bảo vệ thực vật:bvtv
+bảo vệ:bv
+bất động sản:bđs
+bắc cạn:bc
+bắc giang:bg
+bắc ninh:bn
+bắt đầu:bđ
+bến tre:bt
+bến xe:bx
+bệnh nhân:bn
+bệnh viện đa khoa:bvđk
+bệnh viện:bv
+bồ đào nha:bđn
+bổ túc văn hoá:btvh
+bộ bưu chính viễn thông:bbcvt
+bộ chỉ huy quân sự:bchqs
+bộ chỉ huy:bch
+bộ giáo dục đào tạo:bgdđt
+bộ giáo dục:bgd
+bộ luật hình sự:blhs
+bộ sưu tập:bst
+bộ trưởng:bt
+bộ xử lý:bxl
+bộ đội biên phòng:bđbp
+cao bằng:cb
+cao su việt lào:csvl
+cao đẳng sư phạm:cđsp
+cao đẳng:cđ
+chi nhánh cấp nước:cncn
+chi nhánh:cn
+cho thuê tài chính:cttc
+chung kết:ck
+chuyên khoa:ck
+chuyên viên:cv
+chuyển khoản:ck
+chuyển nhà:cn
+chuyển nhượng:cn
+chuyển tiền nhanh:ctn
+chính phủ:cp
+chính sách xã hội:csxh
+chính trị:ct
+chăm sóc khách hàng:cskh
+chương trình chống lao quốc gia:ctclqg
+chương trình tiên tiến:cttt
+chương trình truyền hình:ctth
+chấn thương chỉnh hình:ctch
+chấn thương sọ não:ctsn
+chất độc da cam:cđdc
+chậm phát triển trí tuệ:cpttt
+chế biến:cb
+chống bán phá giá:cbpg
+chủ nghĩa xã hội:cnxh
+chứng khoán:ck
+chứng minh nhân dân:cmnd
+chứng minh thư:cmt
+chứng nhận kết quả thi:cnkqt
+chứng nhận quyền sử dụng đất:cnqsdđ
+chữ thập đỏ:ctđ
+cuộc sống:cs
+cà mau:cm
+cách mạng công nghiệp:cmcn
+cách mạng tháng tám:cmtt
+cán bộ chiến sĩ:cbcs
+cán bộ công chức:cbcc
+cán bộ công nhân viên:cbcnv
+cán bộ nhân viên lao động:cbnvlđ
+cán bộ nhân viên:cbnv
+cán bộ quản lý giáo dục:cbqlgd
+cán bộ:cb
+câu lạc bộ:clb
+công an hà nội:cahn
+công an nhân dân:cand
+công an phường:cap
+công an quận:caq
+công an thành phố:catp
+công an:ca
+công chức:cc
+công nghiệp hoá hiện đại hoá:cnhhđh
+công nghiệp hoá:cnh
+công nghiệp hoá:cnh
+công nghiệp:cn
+công nghệ sinh học:cnsh
+công nghệ thông tin truyền thông:cntttt
+công nghệ thông tin:cntt
+công nghệ:cn
+công nhân kỹ thuật:cnkt
+công nhân viên chức:cnvc
+công nhân viên:cnv
+công nhân:cn
+công suất phản kháng:cspk
+công thức:ct
+công trình công cộng:ctcc
+công ty chứng khoán:ctck
+công ty cấp nước:ctcn
+công ty cổ phần:ctcp
+công ty trách nhiệm hữu hạn:cttnhh
+công ty điện lực:ctđl
+công ty:ct
+công ty:cty
+công tác xã hội:ctxh
+công viên phần mềm:cvpm
+công văn:cv
+cơ bản:cb
+cơ quan điều tra:cqđt
+cơ quan:cq
+cơ sở dữ liệu:csdl
+cơ sở hạ tầng:csht
+cơ sở sản xuất:cssx
+cơ sở vật chất:csvc
+cơ sở đào tạo lái xe:csđtlx
+cơ sở đào tạo:csđt
+cơ sở:cs
+cư xá:cx
+cải cách hành chính:cchc
+cải cách:cc
+cảng hàng không:chk
+cảng sài gòn:csg
+cảnh sát cơ động:cscđ
+cảnh sát dã chiến:csdc
+cảnh sát giao thông:csgt
+cảnh sát hình sự:cshs
+cảnh sát khu vực:cskv
+cảnh sát kinh tế:cskt
+cảnh sát quản lý hành chính:csqlhc
+cảnh sát điều tra tội phạm ma tuý:csđttpmt
+cảnh sát điều tra tội phạm:csđttp
+cảnh sát điều tra:csđt
+cảnh sát đặc nhiệm:csđn
+cảnh sát:cs
+cấp cứu ngoại viện:ccnv
+cấp cứu viên:ccv
+cấp phép xây dựng:cpxd
+cần thơ:ct
+cổ phiếu tự do:cptd
+cổ phiếu:cp
+cổ phần hoá:cph
+cổ phần xây dựng sản xuất thương mại:cpxdsxtm
+cổ phần:cp
+cổ động viên:cđv
+cộng hoà dân chủ nhân dân:chdcnd
+cộng hoà dân chủ:chdc
+cộng hoà liên bang:chlb
+cộng hoà xã hội chủ nghĩa việt nam:chxhcnvn
+cộng hoà xã hội:chxh
+cộng hoà dân chủ nhân dân:chdcnd
+cộng hoà dân chủ:chdc
+cộng hoà liên bang:chlb
+cộng hoà nhân dân:chnd
+cộng hoà xã hội chủ nghĩa việt nam:chxhcnvn
+cộng hoà xã hội chủ nghĩa:chxhcn
+cộng hoà:ch
+cộng sản việt nam:csvn
+cộng tác viên:ctv
+cục cảnh sát phòng chống tội phạm ma tuý:ccspctpmt
+cục quản lý dược:cqld
+cục thú y:cty
+cứu hộ cứu nạn:chcn
+cứu nạn cứu hộ:cnch
+cử nhân tài năng:cntn
+cử nhân:cn
+cửa khẩu:ck
+cựu chiến binh:ccb
+dinh dưỡng:dd
+diễn viên:dv
+diện tích khuôn viên:dtkv
+diện tích sử dụng:dtsd
+diện tích xây dựng:dtxd
+doanh nghiệp nhà nước:dnnn
+doanh nghiệp trẻ:dnt
+doanh nghiệp tư nhân:dntn
+doanh nghiệp việt nam:dnvn
+doanh nghiệp vừa và nhỏ:dnvvn
+doanh nghiệp:dn
+du học sinh:dhs
+du lịch:dl
+duyên dáng việt nam:ddvn
+dân chủ cộng hoà:dcch
+dân dụng:dd
+dân lập bán công:dlbc
+dân lập:dl
+dân số:ds
+dân tộc:dt
+dạy thêm học thêm:dtht
+dịch tả heo châu phi:dthcp
+dịch vụ thông tin:dvtt
+dịch vụ thương mại cà mau:dvtmcm
+dịch vụ thương mại:dvtm
+dịch vụ trực tuyến:dvtt
+dịch vụ việc làm:dvvl
+dịch vụ:dv
+dữ liệu:dl
+dự tuyển:dt
+dự án giao thông đô thị:dagtđt
+dự án:da
+gia lai:gl
+gia lai:gl
+gia đình:gđ
+giao hàng nhanh:ghn
+giao hàng tiết kiệm:ghtk
+giao thông công chánh:gtcc
+giao thông công chính:gtcc
+giao thông vận tải:gtvt
+giao thông:gt
+giá trị gia tăng:gtgt
+giá trị:gt
+giám sát trọng tài:gstt
+giám đốc kĩ thuật:gđkt
+giám đốc thông tin:gđtt
+giám đốc điều hành:gđđh
+giám đốc:gđ
+giáo dục giới tính:gdgt
+giáo dục nghề nghiệp:gdnn
+giáo dục thường xuyên:gdtx
+giáo dục đào tạo:gddt
+giáo dục đào tạo:gdđt
+giáo dục đại học:gdđh
+giáo dục:gd
+giáo hội phật giáo việt nam:ghpgvn
+giáo khoa:gk
+giáo sư tiến sĩ khoa học:gstskh
+giáo sư tiến sĩ:gsts
+giáo sư:gs
+giáo viên chủ nhiệm:gvcn
+giáo viên giỏi:gvg
+giáo viên miền núi:gvmn
+giáo viên mầm non:gvmn
+giáo viên tiểu học:gvth
+giáo viên tình nguyện:gvtn
+giáo viên:gv
+giãn tĩnh mạch tinh:gtmt
+giải phóng mặt bằng:gpmb
+giải phẫu thẩm mỹ:gptm
+giảng viên chính:gvc
+giảng viên:gv
+giấy chủ quyền:gcq
+giấy chứng minh nhân dân:gcmnd
+giấy chứng nhận kết quả thi:gcnkqt
+giấy chứng nhận quyền sở hữu nhà ở:gcnqshnơ
+giấy chứng nhận quyền sở hữu nhà:gcnqshn
+giấy chứng nhận quyền sở hữu:gcnqsh
+giấy chứng nhận quyền sử dụng đất ở:gcnqsdđơ
+giấy chứng nhận quyền sử dụng đất:gcnqsdđ
+giấy chứng nhận quyền sử dụng:gcnqsd
+giấy chứng nhận sức khoẻ:gcnsk
+giấy chứng nhận đăng ký kinh doanh:gcnđkkd
+giấy chứng nhận:gcn
+giấy phép lái xe:gplx
+giấy phép lưu hành đặc biệt:gplhđb
+giấy phép nhập khẩu:gpnk
+giấy phép xây dựng:gpxd
+giấy phép:gp
+gái mại dâm:gmd
+gạch đồng tâm long an:gđtla
+gạch đồng tâm:gđt
+hiến máu nhân đạo:hmnđ
+hiện đại hoá:hđh
+hiệp hội:hh
+hoa hậu thế giới:hhtg
+hoa hậu việt nam:hhvn
+hoa hậu:hh
+hoa học trò:hht
+hoa lâm bình định:hlbđ
+honda việt nam:hvn
+hoàng anh gia lai:hagl
+hoàng mai:hm
+huy chương bạc:hcb
+huy chương vàng:hcv
+huy chương đồng:hcđ
+huy chương:hc
+huyết áp:ha
+huyện:h
+huân huy chương:hhc
+huấn luyện quốc gia:hlqg
+huấn luyện viên:hlv
+huấn luyện:hl
+hà giang:hg
+hà nam:hn
+hà nội:hn
+hà nội:hn
+hà tĩnh:ht
+hàn quốc:hq
+hàng không dân dụng việt nam:hkddvn
+hàng không dân dụng:hkdd
+hàng việt nam chất lượng cao:hvnclc
+hàng việt nam chất lượng:hvncl
+hành chính:hc
+hoà bình:hb
+hoà phát hà nội:hphn
+hôn nhân gia đình:hngđ
+hưng yên:hy
+hướng dẫn viên:hdv
+hướng dẫn:hd
+hạn sử dụng:hsd
+hải dương:hd
+hải phòng:hp
+hải phòng:hp
+hải quan hải phòng:hqhp
+hải quan điện tử:hqđt
+hải quan:hq
+hậu giang:hg
+hệ điều hành:hđh
+học bổng:hb
+học chế tín chỉ:hctc
+học kỳ:hk
+học phần:hp
+học sinh bán công:hsbc
+học sinh giỏi quốc gia:hsgqg
+học sinh giỏi quốc tế:hsgqt
+học sinh giỏi:hsg
+học sinh phổ thông:hspt
+học sinh sinh viên:hssv
+học sinh:hs
+học tập cộng đồng:htcđ
+học viên cao học:hvch
+học viên:hv
+học viện an ninh nhân dân:hvannd
+học viện bưu chính viễn thông:hvbcvt
+học viện công nghệ bưu chính viễn thông:hvcnbcvt
+học viện khoa học quân sự:hvkhqs
+học viện ngân hàng:hvnh
+hồ chí minh:hcm
+hồ sơ đăng ký dự thi:hsđkdt
+hỗn hợp:hh
+hộ khẩu thường trú:hktt
+hội chợ triển lăm:hctl
+hội chợ việc làm:hcvl
+hội hoạ:hh
+hội họp:hh
+hội khoa học kỹ thuật việt nam:hkhktvn
+hội khoa học kỹ thuật:hkhkt
+hội liên hiệp thanh niên việt nam:hlhtnvn
+hội luật gia:hlg
+hội nghị hiệp thương:hnht
+hội nghị:hn
+hội nhà báo việt nam:hnbvn
+hội nhà văn:hnv
+hội nông dân:hnd
+hội sinh viên:hsv
+hội đồng bảo an:hđba
+hội đồng chức danh giáo sư cơ sở:hđcdgscs
+hội đồng chức danh giáo sư ngành:hđcdgsn
+hội đồng chức danh giáo sư nhà nước:hđcdgsnn
+hội đồng chức danh giáo sư:hđcdgs
+hội đồng chức danh:hđcd
+hội đồng coi thi:hđct
+hội đồng nghệ thuật:hđnt
+hội đồng nhân dân thành phố:hđndtp
+hội đồng nhân dân:hđnd
+hội đồng quản trị:hđqt
+hội đồng thi:hđt
+hội đồng thành viên:hđtv
+hội đồng thẩm định:hđtđ
+hội đồng trường:hđt
+hội đồng trọng tài:hđtt
+hội đồng tuyển sinh:hđts
+hội đồng xét xử:hđxx
+hội đồng đền bù:hđđb
+hội đồng định giá:hđđg
+hội đồng:hđ
+hợp tác quốc tế:htqt
+hợp tác xã dịch vụ nông nghiệp:htxdvnn
+hợp tác xã nhà nước:htxnn
+hợp tác xã:htx
+hợp đồng kinh tế:hđkt
+hợp đồng lao động:hđlđ
+hợp đồng:hđ
+khiếu nại tố cáo:kntc
+kho bạc nhà nước:kbnn
+khoa học công nghệ:khcn
+khoa học kỹ thuật hình sự:khkths
+khoa học kỹ thuật hạt nhân:khkthn
+khoa học kỹ thuật nông nghiệp miền nam:khktnnmn
+khoa học kỹ thuật nông nghiệp:khktnn
+khoa học kỹ thuật:khkt
+khoa học lịch sử:khls
+khoa học tự nhiên:khtn
+khoa học xã hội nhân văn:khxhnv
+khoa học xã hội:khxh
+khoa học xãn hội:khxh
+khoa học:kh
+khu chế xuất:kcx
+khu công nghiệp:kcn
+khu du lịch:kdl
+khu dân cư:kdc
+khu kinh tế:kkt
+khu phố:kp
+khu thương mại:ktm
+khu vực:kv
+khu đô thị mới:kđtm
+khu đô thị nam thăng long:kđtntl
+khu đô thị:kđt
+khu đường sông:kđs
+khuyến khích:kk
+khuyến nông:kn
+khách hàng:kh
+khách sạn:ks
+khám chữa bệnh cho người nghèo:kcbcnn
+khám chữa bệnh:kcb
+khánh hoà:kh
+khí tượng thuỷ văn:kttv
+không:ko
+kim tự tháp:ktt
+kinh doanh dịch vụ:kddv
+kinh doanh hàng đa cấp:kdhđc
+kinh doanh nhà phú nhuận:kdnpn
+kinh doanh nhà:kdn
+kinh tế nhà nước:ktnn
+kinh tế quốc dân hà nội:ktqdhn
+kinh tế quốc dân:ktqd
+kinh tế xã hội:ktxh
+kinh tế đô thị:ktđt
+kinh tế:kt
+kiên giang:kg
+kiến trúc sư trưởng:ktst
+kiến trúc sư:kts
+kiểm dịch động vật:kdđv
+kiểm sát nhân dân tối cao:ksndtc
+kiểm sát nhân dân:ksnd
+kiểm sát viên:ksv
+kiểm sát:ks
+kiểm định chất lượng giáo dục:kđclgd
+kiểm định chất lượng:kđcl
+kiểu dáng công nghiệp:kdcn
+kon tum:kt
+kê khai bảo hiểm xã hội:kkbhxh
+ký sinh trùng:kst
+ký túc xá:ktx
+kĩ sư:ks
+kĩ thuật:kt
+kế hoạch hoá gia đình:khhgđ
+kế hoạch kinh doanh:khkd
+kế hoạch đầu tư:khđt
+kế hoạch:kh
+kết luận điều tra:klđt
+kết luận:kl
+kỷ lục quốc gia:klqg
+kỹ sư:ks
+kỹ thuật viên:ktv
+kỹ thuật:kt
+lai châu:lc
+lao động thương binh xã hội:lđtbxh
+lao động thương binh:lđtb
+lao động:lđ
+liên bang:lb
+liên chi đoàn:lcđ
+liên hiệp phụ nữ:lhpn
+liên hiệp thanh niên:lhtn
+liên hiệp:lh
+liên hoan phim:lhp
+liên hoan:lh
+liên hợp quốc:lhq
+liên minh huyền thoại:lmht
+liên đoàn bóng đá việt nam:lđbđvn
+liên đoàn bóng đá:lđbđ
+liên đoàn lao động việt nam:lđlđvn
+liên đoàn lao động:lđlđ
+liệt sĩ:ls
+long an:la
+luật công ty:lct
+luật cạnh tranh:lct
+luật sư:ls
+lào cai:lc
+lâm đồng:lđ
+lây truyền qua đường tình dục:ltqđtd
+lãnh sự quán:lsq
+lưu học sinh:lhs
+lạng sơn:ls
+lập trình hướng đối tượng:lthđt
+lở mồm long móng:lmlm
+lợi nhuận sau thuế:lnst
+lợi nhuận trước thuế:lntt
+lực lượng lao động:lllđ
+lực lượng vũ trang:llvt
+lực lượng:ll
+miền núi:mn
+máy tính xách tay:mtxt
+máy tính điện tử:mtđt
+máy tính:mt
+mã số sinh viên:mssv
+mã số thuế:mst
+mã số:ms
+môi trường:mt
+mùa hè xanh:mhx
+mũ bảo hiểm:mbh
+mạng máy tính:mmt
+mạng xã hội:mxh
+mầm non:mn
+mặt trăng:mt
+mặt trận tổ quốc việt nam:mttqvn
+mặt trận tổ quốc:mttq
+mặt trận:mt
+mặt trời:mt
+một thành viên:mtv
+nam kỳ khởi nghĩa:nkkn
+nam định:nđ
+nghiên cứu khoa học:nckh
+nghiên cứu sinh:ncs
+nghiên cứu thị trường:nctt
+nghiên cứu:nc
+nghĩa trang liệt sĩ:ntls
+nghệ an:na
+nghệ sĩ nhân dân:nsnd
+nghệ sĩ ưu tú:nsưt
+nghệ sĩ:ns
+nghệ thuật biểu diễn:ntbd
+nghị quyết:nq
+nghị định:nđ
+ngoài công lập:ncl
+ngoài quốc doanh:nqd
+ngoại hạng anh:nha
+ngoại ngữ:nn
+nguyện vọng:nv
+ngày sản xuất:nsx
+ngân hàng chính sách xã hội:nhcsxh
+ngân hàng công thương chi nhánh:nhctcn
+ngân hàng công thương hải phòng:nhcthp
+ngân hàng công thương việt nam:nhctvn
+ngân hàng ngoại thương:nhnt
+ngân hàng nhà nước việt nam:nhnnvn
+ngân hàng nhà nước:nhnn
+ngân hàng nông nghiệp phát triển nông thôn việt nam:nhnnptntvn
+ngân hàng nông nghiệp phát triển nông thôn:nhnnptnt
+ngân hàng thương mại cổ phần:nhtmcp
+ngân hàng thương mại nhà nước:nhtmnn
+ngân hàng thương mại quốc doanh:nhtmqd
+ngân hàng thương mại:nhtm
+ngân hàng trung ương:nhtw
+ngân hàng đông á:nhđá
+ngân hàng đầu tư phát triển:nhđtpt
+ngân hàng đầu tư:nhđt
+ngân hàng:nh
+ngân sách nhà nước:nsnn
+ngân sách địa phương:nsđp
+ngôn ngữ:nn
+người có thu nhập thấp:nctnt
+người hâm mộ:nhm
+người khuyết tật:nkt
+người lao động:nlđ
+người tiêu dùng:ntd
+người việt ở nước ngoài:nvơnn
+người đưa tin:nđt
+người đẹp việt nam:nđvn
+nhiễm khuẩn bệnh viện:nkbv
+nhiễm sắc thể:nst
+nhà báo công luận:nbcl
+nhà cung cấp:ncc
+nhà máy điện:nmđ
+nhà nước:nn
+nhà phân phối:npp
+nhà riêng:nr
+nhà sản xuất:nsx
+nhà thi đấu:ntđ
+nhà thiết kế:ntk
+nhà tuyển dụng:ntd
+nhà văn hoá thanh niên:nvhtn
+nhà văn hoá:nvh
+nhà xuất bản giáo dục:nxbgd
+nhà xuất bản khoa học xã hội:nxbkhxh
+nhà xuất bản quân đội nhân dân:nxbqđnd
+nhà xuất bản tự nhiên:nxbtn
+nhà xuất bản văn hoá nghệ thuật:nxbvhtt
+nhà xuất bản:nxb
+nhà đầu tư:nđt
+nhà ở xã hội:noxh
+nhà ở xã hội:nơxh
+nhân dân online:ndo
+nhân dân tệ:ndt
+nhân dân:nd
+nhân viên:nv
+nhân văn:nv
+nhập khẩu:nk
+nhịp sống:ns
+nhồi máu cơ tim:nmct
+ninh bình:nb
+ninh thuận:nt
+nông lâm sản:nls
+nông nghiệp phát triển nông thôn:nnptnt
+nông nghiệp:nn
+nông thôn mới:ntm
+năng khiếu nghiệp vụ:nknv
+năng lượng mặt trời:nlmt
+năng lượng tái tạo:nltt
+năng lượng:nl
+năng lực tư duy:nltd
+nạn nhân chất độc da cam:nncđdc
+phong cách:pc
+phong nha kẻ bàng:pnkb
+phái mạnh:pm
+pháp luật on-lai:plo
+pháp luật onlai:plo
+pháp luật việt nam:plvn
+pháp luật:pl
+phát sóng lưu động:pslđ
+phát thanh truyền hình thông tin điện tử:ptthttđt
+phát thanh truyền hình:ptth
+phát thanh viên:ptv
+phát triển nông thôn:ptnn
+phát triển nông thôn:ptnt
+phát triển sản xuất:ptsx
+phát triển trẻ thơ:pttt
+phòng cháy chữa cháy cứu hộ cứu nạn:pcccchcn
+phòng cháy chữa cháy:pccc
+phòng chống bão lụt tìm kiếm cứu nạn:pcbltkcn
+phòng chống bão lụt:pcbl
+phòng chống lụt bão miền nam:pclbmn
+phòng chống lụt bão trung ương:pclbtw
+phòng chống lụt bão:pclb
+phòng chống ma tuý tội phạm:pcmttp
+phòng chống ma tuý:pcmt
+phòng chống suy dinh dưỡng trẻ em:pcsddte
+phòng chống thiên tai tìm kiếm cứu nạn:pctttkcn
+phòng chống thiên tai:pctt
+phòng chống tệ nạn xã hội:pctnxh
+phòng chống tệ nạn:pctn
+phòng chống tội phạm công nghệ cao:pctpcnc
+phòng chống tội phạm:pctp
+phòng công chứng:pcc
+phòng giao dịch:pgd
+phòng giáo dục:pgd
+phòng thí nghiệm:ptn
+phó chủ tịch uỷ ban nhân dân:pctubnd
+phó chủ tịch:pct
+phó giám đốc:pgđ
+phó giáo sư tiến sĩ:pgsts
+phó giáo sư:pgs
+phó thủ tướng:ptt
+phóng sự:ps
+phóng viên:pv
+phú thọ:pt
+phú yên:py
+phương pháp:pp
+phường:p
+phần mềm:pm
+phẫu thuật thẩm mĩ:pttm
+phẫu thuật thẩm mỹ:pttm
+phật giáo hoà hảo:pghh
+phỏng vấn:pv
+phổ cập bậc trung học:pcbth
+phổ cập giáo dục bậc trung học:pcgdbth
+phổ cập giáo dục tiểu học:pcgdth
+phổ cập giáo dục trung học cơ sở:pcgdthcs
+phổ cập giáo dục:pcgd
+phổ cập tiểu học:pcth
+phổ cập trung học cơ sở:pcthcs
+phổ thông cơ sở:ptcs
+phổ thông dân tộc bán trú:ptdtbt
+phổ thông dân tộc:ptdt
+phổ thông liên cấp:ptlc
+phổ thông trung học:ptth
+phụ huynh học sinh:phhs
+phụ nữ:pn
+quan chức hải quan:qchq
+quan hệ tình dục:qhtd
+quay số mở thưởng:qsmt
+quy chuẩn kĩ thuật:qckt
+quy chuẩn thủ đô hà nội:qctđhn
+quy chuẩn việt nam:qcvn
+quy chế dân chủ cơ sở:qcdccs
+quy chế ghi nhãn hàng hoá:qcgnhh
+quy chế kinh doanh thép xây dựng:qckdtxd
+quy chế:qc
+quyết định xử phạt vi phạm hành chính:qđxpvphc
+quyết định:qđ
+quyền sở hữu nhà quyền sử dụng đất:qshnqsdđ
+quyền sở hữu nhà ở:qshnơ
+quyền sử dụng đất ở:qsdđơ
+quyền sử dụng đất:qsdđ
+quyền sử dụng:qsd
+quân khu:qk
+quân sự quốc phòng:qsqp
+quân đội nhân dân:qđnd
+quân đội:qđ
+quý:q
+quĩ bảo lãnh tín dụng:qbltd
+quản lí đào tạo:qlđt
+quản lí đô thị:qlđt
+quản lí:ql
+quản lý dược:qld
+quản lý dự án:qlda
+quản lý thị trường:qltt
+quản lý đào tạo:qlđt
+quản lý đô thị:qlđt
+quản lý đăng ký xe lái xe:qlđkxlx
+quản lý:ql
+quản trị kinh doanh:qtkd
+quảng bình:qb
+quảng nam:qn
+quảng ngãi:qn
+quảng ninh:qn
+quảng ninh:qn
+quảng trị:qt
+quận:q
+quốc gia:qg
+quốc hội:qh
+quốc lộ:ql
+quý:q
+rối loạn cương dương:rlcd
+rối loạn cương:rlc
+sao mai điểm hẹn:smđh
+sao vàng đất việt:svđv
+sau công nguyên:scn
+sau đại học:sđh
+sinh hoạt tình dục:shtd
+sinh hoạt:sh
+sinh ngày:sn
+sinh nhật:sn
+sinh năm:sn
+sinh viên học sinh:svhs
+sinh viên nghiên cứu khoa học:svnckh
+sinh viên tình nguyện:svtn
+sinh viên việt nam:svvn
+sinh viên:sv
+siêu thị dự án:stda
+sài gòn giải phóng:sggp
+sài gòn khu vực:sgkv
+sài gòn tiếp thị:sgtt
+sài gòn:sg
+sách giáo khoa:sgk
+sân khấu:sk
+sân vận động:svđ
+sóc trăng:st
+sông lam nghệ an:slna
+sông đà nam định:sđnđ
+sĩ số:ss
+sơ yếu lý lịch:syll
+sơn la:sl
+sơn đồng tâm long an:sđtla
+sư phạm kỹ thuật:spkt
+sư phạm:sp
+sưu tầm:st
+sản phẩm:sp
+sản xuất kinh doanh:sxkd
+sản xuất thương mại dịch vụ:sxtmdv
+sản xuất thương mại:sxtm
+sản xuất:sx
+số báo danh:sbd
+số thứ tự:stt
+số điện thoại:sđt
+số đăng ký:sđk
+sốt xuất huyết:sxh
+sở giao thông vận tải:sgtvt
+sở giáo dục:sgd
+sở hữu nhà nước:shnn
+sở hữu trí tuệ:shtt
+sở khoa học công nghệ môi trường:skhcnmt
+sở khoa học công nghệ:skhcn
+sở kế hoạch đầu tư:skhđt
+sở nông nghiệp:snn
+sức khoẻ sinh sản:skss
+sử dụng đất nông nghiệp:sdđnn
+sử dụng đất:sdđ
+sử dụng:sd
+tai biến mạch máu não:tbmmn
+tai nạn giao thông:tngt
+than việt nam:tvn
+thanh hoá:th
+thanh niên cộng sản:tncs
+thanh niên lập nghiệp:tnln
+thanh niên nông thôn:tnnt
+thanh niên sinh viên việt nam:tnsvvn
+thanh niên sinh viên:tnsv
+thanh niên tình nguyện:tntn
+thanh niên việt nam:tnvn
+thanh niên xung kích:tnxk
+thanh niên xung phong:tnxp
+thanh niên:tn
+thanh thiếu niên:ttn
+thanh tra chính phủ:ttcp
+thanh tra giao thông:ttgt
+thanh tra kiểm soát giao thông:ttksgt
+thanh tra kiểm soát:ttks
+thanh tra nhà nước:ttnn
+thi hành án dân sự:thads
+thiên nhiên:tn
+thiết kế bản vẽ thi công:tkbvtc
+thiết kế:tk
+thiếu niên tiền phong:tntp
+thoát nước đô thị:tnđt
+thu nhập cá nhân:tncn
+thu nhập doanh nghiệp:tndn
+thuê bao trả trước:tbtt
+thuế nhập khẩu:tnk
+thuế tiêu thụ đặc biệt:tttđb
+thành phố cần thơ:tpct
+thành phố hà nội:tphn
+thành phố hồ chí minh:tphcm
+thành phố:tp
+thái bình dương:tbd
+thái bình:tb
+thái nguyên:tn
+thép miền nam:tmn
+thí nghiệm:tn
+thông tin an toàn giao thông:ttatgt
+thông tin truyền thông:tttt
+thông tin điện tử:ttđt
+thông tin:tt
+thông tư liên tịch:ttlt
+thông tấn việt nam:ttvn
+thông tấn xã việt nam:ttxvn
+thư viện:tv
+thương binh xã hội:tbxh
+thương binh:tb
+thương hiệu quốc gia:thqg
+thương mại cổ phần:tmcp
+thương mại dịch vụ:tmdv
+thương mại xây dựng:tmxd
+thương mại điện tử:tmđt
+thương mại:tm
+thường vụ quốc hội:tvqh
+thường vụ trung ương:tvtu
+thường vụ trung ương:tvtw
+thạc sĩ:ths
+thảo cầm viên sài gòn:tcvsg
+thế giới di động:tgdđ
+thế giới:tg
+thể dục thể thao quốc gia:tdttqg
+thể dục thể thao:tdtt
+thể thao cuối tuần:ttct
+thể thao du lịch:ttdl
+thể thao việt nam:ttvn
+thị trường bất động sản:ttbđs
+thị trường chuyển nhượng:ttcn
+thị trường chứng khoán:ttck
+thị trường:tt
+thị trấn:tt
+thị xã:tx
+thị xã:tx
+thời báo kinh tế sài gòn:tbktsg
+thời báo kinh tế việt nam:tbktvn
+thụ tinh trong ống nghiệm:ttton
+thủ công mỹ nghệ:tcmn
+thủ tướng chính phủ:ttcp
+thủ tướng:tt
+thủ tục hành chính:tthc
+thức ăn chăn nuôi:tacn
+thừa thiên huế:tth
+thừa thiên:tt
+thực hiện chính sách nhà đất:thcsnđ
+thực hành:th
+thực phẩm chức năng:tpcn
+ti vi:tv
+tiêm chủng mở rộng:tcmr
+tiên phong online:tpo
+tiêu chuẩn bảo vệ người tiêu dùng:tcbvntd
+tiêu chuẩn quốc tế:tcqt
+tiêu chuẩn việt nam:tcvn
+tiêu chuẩn:tc
+tiến sĩ khoa học:tskh
+tiến sĩ:ts
+tiếng nói nhân dân:tnnd
+tiếng nói việt nam:tnvn
+tiếp viên hàng không:tvhk
+tiền giang:tg
+tiền phong:tp
+tiền sử dụng đất:tsdđ
+tiểu học:th
+tiểu thủ công nghiệp:ttcn
+toà án nhân dân:tand
+trang thiết bị y tế:ttbyt
+trinh nữ hoàng cung:tnhc
+trung cấp chuyên nghiệp:tccn
+trung cấp nghề:tcn
+trung cấp:tc
+trung học chuyên ban:thcb
+trung học chuyên nghiệp:thcn
+trung học cơ sở:thcs
+trung học dân lập:thdl
+trung học phổ thông dân tộc nội trú:thptdtnt
+trung học phổ thông:thpt
+trung học:th
+trung quốc:tq
+trung tâm bảo vệ quyền tác giả:ttbvqtg
+trung tâm bồi dưỡng văn hoá ngoài giờ:ttbdvhng
+trung tâm bồi dưỡng văn hoá:ttbdvh
+trung tâm cai nghiện:ttcn
+trung tâm chứng khoán:ttck
+trung tâm công nghiệp:ttcn
+trung tâm dinh dưỡng:ttdd
+trung tâm dịch vụ việc làm:ttdvvl
+trung tâm dịch vụ:ttdv
+trung tâm giao dich chứng khoán:ttgdck
+trung tâm giáo dục thường xuyên:ttgdtx
+trung tâm huấn luyện thể thao quốc gia:tthlttqg
+trung tâm học tập cộng đồng:tthtcđ
+trung tâm hỗ trợ sinh viên:tthtsv
+trung tâm ngoại ngữ:ttnn
+trung tâm thương mại:tttm
+trung tâm tin học:ttth
+trung tâm văn hoá:ttvh
+trung tâm y tế dự phòng:ttytdp
+trung tâm y tế:ttyt
+trung tâm điện máy:ttđm
+trung tâm:tt
+trung ương:tw
+trung ương:tư
+truyền hình kỹ thuật số mặt đất:thktsmđ
+truyền hình kỹ thuật số:thkts
+truyền hình trực tiếp:thtt
+truyền hình việt nam:thvn
+truyền hình vĩnh long:thvl
+truyền hình:th
+truyền thông:tt
+trà vinh:tv
+trách nhiệm hữu hạn một thành viên:tnhhmtv
+trách nhiệm hữu hạn:tnhh
+trái cây không hạt:tckh
+trái phiếu chuyển đổi:tpcđ
+trái phiếu doanh nghiệp:tpdn
+trái tim việt nam:ttvn
+trình dược viên:tdv
+trí thức trẻ tình nguyện:ttttn
+trí tuệ việt nam:ttvn
+trò chơi trực tuyến:tctt
+trường hợp:th
+trạm biến áp:tba
+trật tự giao thông:ttgt
+trật tự quản lý kinh tế:ttqlkt
+trật tự viên giao thông:ttvgt
+trật tự xã hội:ttxh
+trắc nghiệm khách quan:tnkq
+trợ giúp pháp lý:tgpl
+tu nghiệp sinh:tns
+tuyên quang:tq
+tuyệt chủng hàng loạt:tchl
+tuổi trẻ chủ nhật:ttcn
+tuổi trẻ:tt
+tài chính kế hoạch:tckh
+tài chính kế toán:tckt
+tài chính nhà nước:tcnn
+tài chính:tc
+tài nguyên môi trường:tnmt
+tài nguyên thiên nhiên:tntn
+tài nguyên:tn
+tái định cư:tđc
+tân hoa xã:thx
+tân sơn nhất:tsn
+tây ban nha:tbn
+tây ninh:tn
+tìm kiếm cứu nạn:tkcn
+tình dục:td
+tình nguyện trẻ:tnt
+tình nguyện viên:tnv
+tình nguyện:tn
+tín hiệu giao thông:thgt
+tín hiệu số:ths
+toà án nhân dân tối cao:tandtc
+toà án nhân dân:tand
+tư bản chủ nghĩa:tbcn
+tư vấn viên:tvv
+tạp chí cộng sản:tccs
+tạp chí khoa học:tckh
+tệ nạn xã hội:tnxh
+tố tụng hình sự:tths
+tốt nghiệp đại học:tnđh
+tổ chức cơ sở:tccs
+tổ chức tín dụng:tctd
+tổ dân phố:tdp
+tổng biên tập:tbt
+tổng công ty thương mại sài gòn:tcttmsg
+tổng công ty địa ốc:tctđô
+tổng công ty:tct
+tổng cộng:tc
+tổng cục du lịch:tcdl
+tổng cục hải quan:tchq
+tổng cục thuế:tct
+tổng giám đốc:tgđ
+tổng thư ký:ttk
+tổng thống:tt
+tội phạm:tp
+từ điển bách khoa việt nam:tđbkvn
+từ điển:tđ
+tự nhiên:tn
+ung thư:ut
+uỷ ban chứng khoán nhà nước:ubcknn
+uỷ ban chứng khoán:ubck
+uỷ ban giám sát tài chính:ubgstc
+uỷ ban kiểm tra:ubkt
+uỷ ban mặt trận tổ quốc:ubmttq
+uỷ ban nhân dân thành phố:ubndtp
+uỷ ban nhân dân:ubnd
+uỷ ban pháp luật:ubpl
+uỷ ban quốc gia tìm kiếm cứu nạn:ubqgtkcn
+uỷ ban thường vụ quốc hội:ubtvqh
+uỷ ban:ub
+vi tính:vt
+viễn thông:vt
+viện kiểm sát nhân dân tối cao:vksndtc
+viện kiểm sát nhân dân:vksnd
+viện kiểm sát:vks
+việt nam chất lượng cao:vnclc
+việt nam đồng:vnđ
+việt nam:vn
+vân vân:vv
+ví dụ:vd
+vòng chung kết:vck
+vô địch quốc gia:vđqg
+vô địch thế giới:vđtg
+vô địch:vđ
+võ lâm truyền kỳ:vltk
+văn bản:vb
+văn hoá thể thao du lịch:vhttdl
+văn hoá thể thao:vhtt
+văn hoá giáo dục thanh niên thiếu niên:vhgdtntn
+văn hoá giáo dục thanh thiếu niên nhi đồng:vhgdttnnđ
+văn hoá thông tin:vhtt
+văn hoá thể thao du lịch:vhttdl
+văn hoá thể thao:vhtt
+văn hoá truyền thông:vhtt
+văn hoá xã hội:vhxh
+văn hoá:vh
+văn học nghệ thuật:vhnt
+văn phòng chính phủ:vpcp
+văn phòng luật sư:vpls
+văn phòng đại diện:vpđd
+văn phòng:vp
+vĩnh long:vl
+vĩnh phúc:vp
+vũ trụ:vt
+vườn quốc gia:vqg
+vận chuyển giao thông:vcgt
+vận tải hành khách công cộng:vthkcc
+vận động viên quốc gia:vđvqg
+vận động viên:vđv
+vật liệu xây dựng:vlxd
+vật lý:vl
+về việc:vv
+vệ sinh:vs
+với:vs
+xoá đói giảm nghèo:xđgn
+xuất khẩu lao động:xklđ
+xuất khẩu:xk
+xuất nhập khẩu:xnk
+xây dựng cơ bản:xdcb
+xây dựng thương mại:xdtm
+xây dựng:xd
+xây lắp:xl
+xã hội chủ nghĩa:xhcn
+xã hội hoá:xhh
+xã hội:xh
+xét xử:xx
+xí nghiệp quản lí:xnql
+xí nghiệp:xn
+xoá đói giảm nghèo:xđgn
+xúc tiến thương mại:xttm
+xăng dầu hàng không:xdhk
+xổ số kiến thiết:xskt
+xổ số miền bắc:xsmb
+xổ số miền nam:xsmn
+y khoa việt nam:ykvn
+y tế dự phòng:ytdp
+y tế:yt
+yên bái:yb
+áp thấp nhiệt đới:atnđ
+điền kinh việt nam:đkvn
+điều chế:đc
+điều dưỡng viên:đdv
+điều kiện:đk
+điều tra thành phố:đttp
+điều tra tội phạm:đttp
+điều tra viên:đtv
+điều tra:đt
+điểm rèn luyện:đrl
+điểm trung bình:đtb
+điện biên phủ:đbp
+điện biên:đb
+điện hạt nhân:đhn
+điện kế điện tử:đkđt
+điện thoại di động:đtdđ
+điện thoại:đt
+điện tử thương mại:đttm
+điện tử:đt
+đo lường:đl
+đoàn viên thanh niên:đvtn
+đoàn viên thanh thiếu nhi:đvttn
+đoàn viên ưu tú:đvưt
+đoàn viên:đv
+đà nẵng:đn
+đà nẵng:đn
+đài loan:đl
+đào tạo liên thông:đtlt
+đào tạo từ xa qua mạng:đttxqm
+đào tạo từ xa:đttx
+đào tạo:đt
+đá mỹ nghệ:đmn
+đái tháo đường:đtđ
+đánh bắt thuỷ sản xa bờ:đbtsxb
+đông nam á:đna
+đăng ký dự thi:đkdt
+đăng ký hộ khẩu:đkhk
+đăng ký kinh doanh:đkkd
+đăng ký kết hôn:đkkh
+đăng ký xét tuyển:đkxt
+đăng ký:đk
+đơn vị chấp nhận thẻ:đvcnt
+đơn vị học trình:đvht
+đương kim vô địch:đkvđ
+đường bộ việt nam:đbvn
+đường cao tốc:đct
+đường sắt việt nam:đsvn
+đường sắt:đs
+đường thuỷ nội địa:đtnđ
+được:đc
+đại biểu quốc hội:đbqh
+đại biểu thanh niên:đbtn
+đại biểu:đb
+đại diện:đd
+đại học bách khoa hà nội:đhbkhn
+đại học bách khoa hồ chí minh:đhbkhcm
+đại học bách khoa thành phố hồ chí minh:đhbktphcm
+đại học bách khoa đà nẵng:đhbkđn
+đại học bách khoa:đhbk
+đại học bán công:đhbc
+đại học chất lượng cao:đhclc
+đại học công nghệ:đhcn
+đại học công đoàn:đhcđ
+đại học cần thơ:đhct
+đại học dân lập:đhdl
+đại học giao thông vận tải:đhgtvt
+đại học hàng hải việt nam:đhhhvn
+đại học hồng bàng:đhhb
+đại học khoa học tự nhiên hà nội:đhkhtnhn
+đại học khoa học tự nhiên:đhkhtn
+đại học khoa học xã hội:đhkhxh
+đại học khoa học:đhkh
+đại học kinh tế quốc dân:đhktqd
+đại học kỹ thuật công nghệ:đhktcn
+đại học kỹ thuật:đhkt
+đại học nha trang:đhnt
+đại học nông nghiệp hà nội:đhnnhn
+đại học quốc gia hà nội:đhqghn
+đại học quốc gia:đhqg
+đại học sư phạm:đhsp
+đại học đà nẵng:đhđn
+đại học đông dương:đhđd
+đại học đẳng cấp quốc tế:đhđcqt
+đại học:đh
+đại hội cổ đông:đhcđ
+đại hội đại biểu:đhđb
+đại hội đồng cổ đông:đhđcđ
+đại lộ đông tây:đlđt
+đại sứ quán:đsq
+đảng cộng sản trung quốc:đcstq
+đảng cộng sản việt nam:đcsvn
+đảng cộng sản:đcs
+đất đai:đđ
+đầu tư nước ngoài:đtnn
+đầu tư xây dựng cơ bản:đtxdcb
+đắk lắk:đl
+đắk nông:đn
+địa chỉ:đc
+đối tượng:đt
+đồng bào dân tộc thiếu số:đbdtts
+đồng bào dân tộc ít người:đbdtin
+đồng bào dân tộc:đbdt
+đồng bằng sông cửu long:đbscl
+đồng bằng sông hồng:đbsh
+đồng bằng:đb
+đồng chí:đc
+đồng hồ nước:đhn
+đồng nai:đn
+đồng tháp:đt
+đồng tính luyến ái:đtla
+đồng tính ái:đta
+đồng đẳng viên:đđv
+đội tuyển quốc gia:đtqg
+đội tuyển việt nam:đtvn
+đội tuyển:đt
+động thực vật hoang dã:đtvhd
+động đất:đđ
+đời sống pháp luật:đspl
+uỷ ban chứng khoán nhà nước:ubcknn
+uỷ ban cách mạng:ubcm
+uỷ ban kiểm tra trung ương:ubkttw
+uỷ ban mặt trận tổ quốc việt nam:ubmttqvn
+uỷ ban mặt trận tổ quốc:ubmttq
+uỷ ban nhân dân thành phố:ubndtp
+uỷ ban nhân dân:ubnd
+uỷ ban thể dục thể thao:ubtdtt
+uỷ viên ban chấp hành:uvbch
+uỷ viên bộ chính trị:uvbct
+uỷ viên:uv
+ứng cử viên:ưcv
+bảo tồn thiên nhiên:BTTN
+chất lượng cao: CLC
+cơ quan điều tra:CQĐT
+công ty chứng khoán:CTCK
+giám đốc kỹ thuật:GĐKT
+hàng không việt nam:HKVN
+trung quốc:TQ
+thủ tướng chính phủ:TTCP
+ủy ban quản lý vốn:UBQLV
